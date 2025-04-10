@@ -1,0 +1,2211 @@
+{
+  "Accounts Payable": {
+    "baseline_skills": "Invoice Processing, Accounts Reconciliation, SAP, Oracle Financials, QuickBooks, Accounts Payable, Vendor Management, Purchase Orders, Payment Processing, Expense Reports, Bookkeeping, Financial Reporting, ERP Systems",
+    "roles": {
+      "Accounts Payable Clerk": "Invoice Processing, Vendor Management, SAP, Accounts Reconciliation",
+      "Accounts Payable Specialist": "Accounts Payable, Oracle Financials, Expense Reports, ERP Systems",
+      "Accounts Payable Analyst": "Accounts Reconciliation, Payment Processing, Bookkeeping, Financial Reporting",
+      "Accounts Payable Manager": "Vendor Management, SAP, QuickBooks, Purchase Orders, ERP Systems"
+    }
+  },
+  "Active Learning": {
+    "baseline_skills": "Instructional Design, Learning Theory, Curriculum Development, Student Engagement, Educational Technology, Assessment Strategies, Flipped Classrooms, Online Learning, Microlearning",
+    "roles": {
+      "Instructional Designer": "Instructional Design, Curriculum Development, Online Learning, Educational Technology",
+      "Learning Specialist": "Active Learning, Student Engagement, Assessment Strategies, Microlearning"
+    }
+  },
+  "Administrative Assistance": {
+    "baseline_skills": "Scheduling, Email Management, Office Management, Calendar Coordination, Document Preparation, MS Office, Travel Coordination, Data Entry, Customer Service, Clerical Support",
+    "roles": {
+      "Administrative Assistant": "Scheduling, Office Management, MS Office, Document Preparation",
+      "Executive Assistant": "Calendar Coordination, Travel Coordination, Email Management, Customer Service"
+    }
+  },
+  "Advertising": {
+    "baseline_skills": "Media Buying, Copywriting, Creative Strategy, Google Ads, Digital Advertising, Market Research, Brand Strategy, Programmatic Advertising, Ad Campaigns, Performance Metrics",
+    "roles": {
+      "Advertising Manager": "Media Buying, Brand Strategy, Ad Campaigns, Performance Metrics",
+      "Copywriter": "Copywriting, Creative Strategy, Digital Advertising",
+      "Media Planner": "Media Buying, Programmatic Advertising, Market Research"
+    }
+  },
+  "Aerospace Engineering": {
+    "baseline_skills": "Aerodynamics, Flight Mechanics, Propulsion Systems, Avionics, MATLAB, CATIA, Aircraft Design, CFD, Finite Element Analysis, Spacecraft Systems",
+    "roles": {
+      "Aerospace Engineer": "Aerodynamics, Aircraft Design, Propulsion Systems, Avionics, MATLAB, CATIA",
+      "Flight Test Engineer": "Flight Mechanics, CFD, Finite Element Analysis, Simulation Software"
+    }
+  },
+  "Affiliate Marketing": {
+    "baseline_skills": "Affiliate Networks, Link Building, Referral Marketing, Commission Structures, Email Campaigns, Tracking Software, Partnership Development, Conversion Optimization, Content Promotion",
+    "roles": {
+      "Affiliate Marketing Manager": "Affiliate Networks, Commission Structures, Tracking Software, Partnership Development",
+      "Affiliate Specialist": "Referral Marketing, Link Building, Email Campaigns, Conversion Optimization"
+    }
+  },
+  "Agricultural Production": {
+    "baseline_skills": "Crop Management, Soil Science, Pest Control, Irrigation, Farm Equipment, Harvesting Techniques, Agribusiness, Fertilization, Sustainable Farming, Food Safety",
+    "roles": {
+      "Farm Manager": "Crop Management, Irrigation, Farm Equipment, Harvesting Techniques",
+      "Agricultural Technician": "Soil Science, Fertilization, Pest Control, Food Safety"
+    }
+  },
+  "Agronomy": {
+    "baseline_skills": "Plant Breeding, Soil Fertility, Crop Production, Agronomic Research, Field Trials, Pesticide Management, Climate Resilience, Agricultural Technology, Yield Optimization",
+    "roles": {
+      "Agronomist": "Crop Production, Soil Fertility, Agronomic Research, Field Trials",
+      "Research Agronomist": "Plant Breeding, Climate Resilience, Pesticide Management, Agricultural Technology"
+    }
+  },
+  "Air Force": {
+    "baseline_skills": "Aviation Operations, Flight Safety, Military Protocols, Aircraft Maintenance, Leadership, Combat Training, Mission Planning, Security Clearance",
+    "roles": {
+      "Air Force Officer": "Mission Planning, Military Protocols, Leadership, Flight Safety",
+      "Aircraft Technician": "Aircraft Maintenance, Aviation Operations, Combat Training"
+    }
+  },
+  "Air Traffic Control": {
+    "baseline_skills": "Radar Systems, Flight Tracking, Airspace Management, Emergency Procedures, FAA Regulations, Communication Protocols, Conflict Resolution, Aviation Safety",
+    "roles": {
+      "Air Traffic Controller": "Flight Tracking, Radar Systems, Emergency Procedures, Airspace Management",
+      "ATC Supervisor": "Conflict Resolution, FAA Regulations, Communication Protocols"
+    }
+  },
+  "Aircraft Management": {
+    "baseline_skills": "Fleet Management, Maintenance Scheduling, Regulatory Compliance, Aviation Operations, Crew Scheduling, Budgeting, Maintenance Logs, Flight Operations, Charter Services",
+    "roles": {
+      "Aircraft Manager": "Fleet Management, Budgeting, Regulatory Compliance, Flight Operations",
+      "Aviation Coordinator": "Maintenance Scheduling, Crew Scheduling, Charter Services"
+    }
+  },
+  "Airlines": {
+    "baseline_skills": "Flight Operations, Passenger Services, Aircraft Safety, Airline Scheduling, Ground Handling, Baggage Handling, Aviation Security, Cabin Crew Protocols, Customer Service",
+    "roles": {
+      "Flight Attendant": "Passenger Services, Cabin Crew Protocols, Aircraft Safety, Customer Service",
+      "Airline Operations Manager": "Flight Operations, Airline Scheduling, Ground Handling",
+      "Check-in Agent": "Baggage Handling, Customer Service, Aviation Security"
+    }
+  },
+  "Analytical Reasoning": {
+    "baseline_skills": "Problem Solving, Logical Thinking, Critical Thinking, Data Analysis, Pattern Recognition, Decision Making, Deductive Reasoning, Quantitative Analysis",
+    "roles": {
+      "Strategy Analyst": "Critical Thinking, Data Analysis, Decision Making",
+      "Business Analyst": "Problem Solving, Quantitative Analysis, Logical Thinking"
+    }
+  },
+  "Anesthesiology": {
+    "baseline_skills": "Anesthesia Administration, Patient Monitoring, Pain Management, Preoperative Assessment, Emergency Response, Anesthesia Equipment, Pharmacology",
+    "roles": {
+      "Anesthesiologist": "Anesthesia Administration, Preoperative Assessment, Emergency Response, Pain Management",
+      "Nurse Anesthetist": "Anesthesia Equipment, Patient Monitoring, Pharmacology"
+    }
+  },
+  "Animation": {
+    "baseline_skills": "2D Animation, 3D Animation, Character Rigging, Storyboarding, Adobe After Effects, Maya, Blender, Motion Graphics, Visual Storytelling",
+    "roles": {
+      "Animator": "2D Animation, 3D Animation, Character Rigging, Motion Graphics",
+      "Storyboard Artist": "Storyboarding, Visual Storytelling, Adobe After Effects"
+    }
+  },
+  "Anthropology": {
+    "baseline_skills": "Cultural Anthropology, Archaeology, Ethnographic Research, Fieldwork, Human Evolution, Qualitative Analysis, Cultural Sensitivity, Historical Context",
+    "roles": {
+      "Cultural Anthropologist": "Cultural Anthropology, Ethnographic Research, Qualitative Analysis",
+      "Archaeologist": "Archaeology, Fieldwork, Human Evolution, Historical Context"
+    }
+  },
+  "Apparel": {
+    "baseline_skills": "Fashion Design, Pattern Making, Textile Selection, Sewing Techniques, Garment Construction, Trend Forecasting, Apparel Merchandising, Fit Analysis",
+    "roles": {
+      "Fashion Designer": "Fashion Design, Textile Selection, Trend Forecasting",
+      "Apparel Merchandiser": "Apparel Merchandising, Fit Analysis, Garment Construction"
+    }
+  },
+  "Architecture": {
+    "baseline_skills": "Architectural Design, AutoCAD, Revit, 3D Modeling, Building Codes, Sustainable Design, Blueprint Reading, Construction Documentation, Site Planning",
+    "roles": {
+      "Architect": "Architectural Design, AutoCAD, Revit, Construction Documentation",
+      "Urban Planner": "Site Planning, Sustainable Design, Blueprint Reading"
+    }
+  },
+  "Army": {
+    "baseline_skills": "Military Strategy, Combat Training, Weapons Handling, Mission Execution, Physical Training, Security Protocols, Leadership, Logistics",
+    "roles": {
+      "Army Officer": "Military Strategy, Leadership, Mission Execution",
+      "Combat Engineer": "Combat Training, Weapons Handling, Logistics"
+    }
+  },
+  "Art History": {
+    "baseline_skills": "Art Criticism, Visual Analysis, Cultural Context, Art Movements, Museum Curation, Historical Research, Critical Thinking, Academic Writing",
+    "roles": {
+      "Art Historian": "Art Criticism, Cultural Context, Art Movements, Visual Analysis",
+      "Curator": "Museum Curation, Historical Research, Academic Writing"
+    }
+  },
+  "Auditing": {
+    "baseline_skills": "Internal Auditing, Compliance, GAAP, Financial Reporting, SOX Compliance, Risk Assessment, Audit Planning, Data Analytics, Forensic Accounting",
+    "roles": {
+      "Internal Auditor": "Internal Auditing, Compliance, Risk Assessment, GAAP",
+      "Audit Manager": "Audit Planning, SOX Compliance, Financial Reporting",
+      "Forensic Auditor": "Forensic Accounting, Data Analytics, Investigation"
+    }
+  },
+  "Automotive": {
+    "baseline_skills": "Automobile Engineering, Vehicle Diagnostics, Engine Systems, Transmission Systems, Brake Systems, Automotive Electronics, Maintenance and Repair, CAD, CAN Protocol",
+    "roles": {
+      "Automotive Technician": "Vehicle Diagnostics, Maintenance and Repair, Engine Systems",
+      "Automotive Engineer": "Automobile Engineering, Transmission Systems, Brake Systems, CAD"
+    }
+  },
+  "Bartending": {
+    "baseline_skills": "Mixology, Customer Service, Drink Recipes, Cash Handling, Inventory Management, Responsible Alcohol Service, POS Systems, Speed and Efficiency, Cleanliness Standards",
+    "roles": {
+      "Bartender": "Mixology, Drink Recipes, Responsible Alcohol Service, POS Systems",
+      "Bar Manager": "Inventory Management, Cash Handling, Speed and Efficiency, Customer Service"
+    }
+  },
+  "Biomedical Engineering": {
+    "baseline_skills": "Medical Devices, Biomechanics, Biomedical Instrumentation, Signal Processing, Tissue Engineering, Clinical Engineering, FDA Regulations, MATLAB, Prototyping",
+    "roles": {
+      "Biomedical Engineer": "Medical Devices, Signal Processing, Tissue Engineering, Prototyping",
+      "Clinical Engineer": "Clinical Engineering, Biomedical Instrumentation, FDA Regulations"
+    }
+  },
+  "Bookkeeping": {
+    "baseline_skills": "Accounts Receivable, Accounts Payable, General Ledger, QuickBooks, Bank Reconciliation, Payroll Processing, Financial Reporting, Invoicing, Data Entry",
+    "roles": {
+      "Bookkeeper": "Accounts Receivable, General Ledger, QuickBooks, Bank Reconciliation",
+      "Accounting Clerk": "Accounts Payable, Payroll Processing, Invoicing, Data Entry"
+    }
+  },
+  "Botany": {
+    "baseline_skills": "Plant Biology, Photosynthesis, Plant Taxonomy, Soil Science, Ecology, Laboratory Research, Fieldwork, Genetics, Plant Physiology",
+    "roles": {
+      "Botanist": "Plant Biology, Fieldwork, Plant Physiology, Photosynthesis",
+      "Plant Scientist": "Genetics, Plant Taxonomy, Soil Science, Laboratory Research"
+    }
+  },
+  "Business Management": {
+    "baseline_skills": "Strategic Planning, Operations Management, Financial Analysis, Leadership, Team Management, Budgeting, Performance Metrics, Business Strategy, Risk Management",
+    "roles": {
+      "Business Manager": "Strategic Planning, Operations Management, Leadership",
+      "Operations Manager": "Team Management, Budgeting, Performance Metrics",
+      "Strategy Consultant": "Business Strategy, Financial Analysis, Risk Management"
+    }
+  },
+  "Capital Markets": {
+    "baseline_skills": "Equity Markets, Fixed Income, Derivatives, Portfolio Management, Trading Strategies, Bloomberg Terminal, Market Analysis, Risk Management, Valuation, Financial Instruments",
+    "roles": {
+      "Capital Markets Analyst": "Equity Markets, Fixed Income, Valuation, Market Analysis",
+      "Trader": "Trading Strategies, Derivatives, Bloomberg Terminal, Financial Instruments"
+    }
+  },
+  "Cardiology": {
+    "baseline_skills": "Cardiac Care, Electrocardiography (ECG), Echocardiography, Heart Disease Diagnosis, Stress Testing, Patient Monitoring, Medical Imaging, Interventional Cardiology, Pharmacology",
+    "roles": {
+      "Cardiologist": "Cardiac Care, Echocardiography, Heart Disease Diagnosis, Interventional Cardiology",
+      "Cardiac Technician": "Electrocardiography (ECG), Stress Testing, Patient Monitoring, Medical Imaging"
+    }
+  },
+  "Carpentry": {
+    "baseline_skills": "Blueprint Reading, Woodworking, Framing, Cabinet Making, Hand Tools, Power Tools, Joinery, Finish Carpentry, Construction Safety",
+    "roles": {
+      "Carpenter": "Woodworking, Framing, Power Tools, Blueprint Reading",
+      "Finish Carpenter": "Finish Carpentry, Cabinet Making, Joinery, Hand Tools"
+    }
+  },
+  "Central Banks": {
+    "baseline_skills": "Monetary Policy, Interest Rates, Financial Regulation, Macroeconomic Analysis, Inflation Control, Banking Supervision, Currency Issuance, Central Banking Operations",
+    "roles": {
+      "Central Bank Analyst": "Monetary Policy, Macroeconomic Analysis, Inflation Control, Interest Rates",
+      "Financial Regulator": "Banking Supervision, Financial Regulation, Currency Issuance"
+    }
+  },
+  "Chemical Industry": {
+    "baseline_skills": "Chemical Engineering, Process Safety, Lab Procedures, Industrial Chemistry, Hazardous Materials Handling, Batch Processing, Quality Control, Reactor Design",
+    "roles": {
+      "Chemical Engineer": "Chemical Engineering, Process Safety, Reactor Design, Industrial Chemistry",
+      "Lab Technician": "Lab Procedures, Quality Control, Hazardous Materials Handling"
+    }
+  },
+  "Childcare": {
+    "baseline_skills": "Child Development, Early Childhood Education, First Aid, CPR, Child Nutrition, Classroom Management, Emotional Support, Curriculum Planning",
+    "roles": {
+      "Childcare Worker": "Child Development, CPR, Child Nutrition, Emotional Support",
+      "Preschool Teacher": "Early Childhood Education, Classroom Management, Curriculum Planning"
+    }
+  },
+  "Collaborative Style": {
+    "baseline_skills": "Team Collaboration, Active Listening, Conflict Resolution, Open Communication, Empathy, Constructive Feedback, Group Decision Making, Trust Building",
+    "roles": {
+      "Team Facilitator": "Team Collaboration, Open Communication, Constructive Feedback",
+      "Collaboration Coach": "Trust Building, Group Decision Making, Active Listening"
+    }
+  },
+  "Commercial Photography": {
+    "baseline_skills": "Commercial Photography, Fashion Photography, Studio Lighting, Product Photography, Architectural Photography, Post-processing, On-location Shooting, Still Life",
+    "roles": {
+      "Commercial Photographer": "Commercial Photography, Studio Lighting, Product Photography, Post-processing",
+      "Fashion Photographer": "Fashion Photography, On-location Shooting, Still Life"
+    }
+  },
+  "Communication Disorders": {
+    "baseline_skills": "Speech Therapy, Language Disorders, Apraxia, Aphasia, AAC Devices, Hearing Loss Treatment, Audiology, Speech Assessment, Fluency Disorders",
+    "roles": {
+      "Speech Language Pathologist": "Speech Therapy, Speech Assessment, Apraxia, Fluency Disorders",
+      "Audiologist": "Hearing Loss Treatment, Audiology, AAC Devices"
+    }
+  },
+  "Compensation & Benefits": {
+    "baseline_skills": "Compensation Analysis, Benefits Administration, Incentive Plans, Benchmarking, Payroll Systems, SAP HR, HRIS, Deferred Compensation, PeopleSoft, Market Pricing",
+    "roles": {
+      "Compensation Analyst": "Compensation Analysis, Benchmarking, Market Pricing, Excel",
+      "Benefits Manager": "Benefits Administration, Incentive Plans, HRIS, Deferred Compensation",
+      "Total Rewards Specialist": "Compensation & Benefits, Payroll Systems, SAP HR, PeopleSoft",
+      "C&B Consultant": "Market Benchmarking, Policy Advisory, Executive Compensation"
+    }
+  },
+  "Competitive Strategies": {
+    "baseline_skills": "Market Positioning, SWOT Analysis, Business Intelligence, Porter\u2019s Five Forces, Strategic Planning, Competitive Benchmarking, Market Research, Trend Analysis",
+    "roles": {
+      "Strategy Consultant": "Market Positioning, Porter\u2019s Five Forces, Competitive Benchmarking",
+      "Competitive Intelligence Analyst": "Business Intelligence, SWOT Analysis, Trend Analysis"
+    }
+  },
+  "Composites": {
+    "baseline_skills": "Composite Materials, Lay-up Techniques, Resin Systems, Mold Making, Fiber Reinforced Polymers, Thermosets, Material Testing, Lamination",
+    "roles": {
+      "Composite Technician": "Lay-up Techniques, Resin Systems, Material Testing",
+      "Materials Engineer": "Composite Materials, Fiber Reinforced Polymers, Thermosets, Lamination"
+    }
+  },
+  "Computer Graphics": {
+    "baseline_skills": "3D Modeling, Rendering, Shaders, Graphics Programming, OpenGL, DirectX, GPU Programming, Image Processing, Animation Techniques",
+    "roles": {
+      "Graphics Programmer": "Graphics Programming, Shaders, OpenGL, GPU Programming",
+      "3D Artist": "3D Modeling, Rendering, Animation Techniques, Image Processing"
+    }
+  },
+  "Computer Hardware": {
+    "baseline_skills": "Motherboard Design, Microprocessors, Memory Systems, Computer Architecture, Troubleshooting, BIOS Configuration, Embedded Systems, PCB Design",
+    "roles": {
+      "Hardware Engineer": "Motherboard Design, Microprocessors, Memory Systems, PCB Design",
+      "Computer Technician": "Troubleshooting, BIOS Configuration, Embedded Systems"
+    }
+  },
+  "Computer Networking": {
+    "baseline_skills": "Network Protocols, Routing & Switching, Firewall Configuration, TCP/IP, Network Security, LAN/WAN, DNS/DHCP, Cisco Systems, Wireless Networking",
+    "roles": {
+      "Network Administrator": "LAN/WAN, Routing & Switching, DNS/DHCP, Firewall Configuration",
+      "Network Engineer": "Network Protocols, Network Security, Cisco Systems, TCP/IP"
+    }
+  },
+  "Conceptual Art": {
+    "baseline_skills": "Contemporary Art, Visual Storytelling, Art Theory, Installation Art, Mixed Media, Experimental Art, Art Curation, Philosophical Themes, Critique Writing",
+    "roles": {
+      "Conceptual Artist": "Visual Storytelling, Mixed Media, Art Theory, Installation Art",
+      "Art Curator": "Art Curation, Contemporary Art, Critique Writing, Philosophical Themes"
+    }
+  },
+  "Constitutional Law": {
+    "baseline_skills": "Legal Interpretation, Case Law Analysis, Civil Rights Law, Supreme Court Decisions, Judicial Review, Statutory Analysis, Government Regulation, Legal Research",
+    "roles": {
+      "Constitutional Lawyer": "Civil Rights Law, Legal Interpretation, Judicial Review",
+      "Legal Researcher": "Legal Research, Statutory Analysis, Case Law Analysis"
+    }
+  },
+  "Construction Engineering": {
+    "baseline_skills": "Structural Design, Construction Management, Civil Engineering, Cost Estimation, Project Scheduling, AutoCAD, Site Safety, Building Materials, Blueprint Reading",
+    "roles": {
+      "Construction Engineer": "Construction Management, Structural Design, Project Scheduling, AutoCAD",
+      "Site Engineer": "Site Safety, Building Materials, Blueprint Reading, Cost Estimation"
+    }
+  },
+  "Contract Law": {
+    "baseline_skills": "Contract Drafting, Legal Compliance, Risk Mitigation, Negotiation, Commercial Law, Dispute Resolution, Legal Interpretation, Contract Review",
+    "roles": {
+      "Contract Lawyer": "Contract Drafting, Legal Interpretation, Risk Mitigation",
+      "Legal Advisor": "Contract Review, Negotiation, Legal Compliance, Dispute Resolution"
+    }
+  },
+  "Cooking": {
+    "baseline_skills": "Food Preparation, Menu Planning, Culinary Techniques, Food Safety, Kitchen Management, Sanitation Standards, Knife Skills, Recipe Development",
+    "roles": {
+      "Chef": "Menu Planning, Culinary Techniques, Kitchen Management, Recipe Development",
+      "Line Cook": "Food Preparation, Knife Skills, Sanitation Standards, Food Safety"
+    }
+  },
+  "Corporate Communications": {
+    "baseline_skills": "Crisis Communication, Internal Communication, Public Relations, Media Relations, Brand Messaging, Content Creation, Communication Strategy, Stakeholder Engagement",
+    "roles": {
+      "Communications Manager": "Internal Communication, Public Relations, Crisis Communication",
+      "Corporate Communications Specialist": "Media Relations, Brand Messaging, Content Creation"
+    }
+  },
+  "Cosmetology": {
+    "baseline_skills": "Hair Styling, Skin Care, Makeup Application, Sanitation Procedures, Hair Coloring, Customer Service, Salon Management, Product Knowledge",
+    "roles": {
+      "Cosmetologist": "Hair Styling, Makeup Application, Skin Care, Sanitation Procedures",
+      "Salon Manager": "Salon Management, Customer Service, Hair Coloring, Product Knowledge"
+    }
+  },
+  "Crafts": {
+    "baseline_skills": "Handmade Products, Pattern Design, Knitting, Sewing, Woodworking, Artisan Techniques, Tool Usage, Craft Show Preparation, Product Photography",
+    "roles": {
+      "Craft Artist": "Pattern Design, Handmade Products, Knitting, Sewing",
+      "Wood Crafter": "Woodworking, Tool Usage, Craft Show Preparation, Product Photography"
+    }
+  },
+  "Creativity Skills": {
+    "baseline_skills": "Creative Thinking, Problem Solving, Design Thinking, Innovation, Brainstorming, Visual Storytelling, Imagination, Ideation, Adaptability",
+    "roles": {
+      "Creative Director": "Creative Thinking, Design Thinking, Innovation, Ideation",
+      "Innovation Consultant": "Problem Solving, Adaptability, Brainstorming"
+    }
+  },
+  "Criminal Law": {
+    "baseline_skills": "Criminal Procedure, Evidence Law, Legal Research, Trial Advocacy, Plea Bargaining, Sentencing Guidelines, Case Law Analysis, Defense Strategies",
+    "roles": {
+      "Criminal Defense Lawyer": "Defense Strategies, Trial Advocacy, Evidence Law",
+      "Prosecutor": "Criminal Procedure, Case Law Analysis, Plea Bargaining, Sentencing Guidelines"
+    }
+  },
+  "Customer Experience": {
+    "baseline_skills": "Customer Journey Mapping, User Experience (UX), Customer Feedback Analysis, Customer Support Strategy, Empathy, Touchpoint Optimization, Net Promoter Score (NPS)",
+    "roles": {
+      "Customer Experience Manager": "Customer Journey Mapping, UX, Touchpoint Optimization",
+      "CX Analyst": "Customer Feedback Analysis, Empathy, Net Promoter Score (NPS)"
+    }
+  },
+  "Customer Service Systems": {
+    "baseline_skills": "CRM Platforms, Ticketing Tools, Customer Support Software, Service Automation, Workflow Management, Integration APIs, User Interface Design, Chatbot Integration",
+    "roles": {
+      "CRM Administrator": "CRM Platforms, Workflow Management, Integration APIs",
+      "Service Systems Analyst": "Ticketing Tools, Customer Support Software, Service Automation"
+    }
+  },
+  "Cyber-security": {
+    "baseline_skills": "Network Security, Penetration Testing, Risk Assessment, SIEM, Firewalls, Vulnerability Management, Incident Response, Encryption, Security Compliance",
+    "roles": {
+      "Security Analyst": "Risk Assessment, SIEM, Vulnerability Management, Incident Response",
+      "Cybersecurity Engineer": "Penetration Testing, Firewalls, Encryption, Network Security"
+    }
+  },
+  "Dance": {
+    "baseline_skills": "Choreography, Performance, Dance Technique, Improvisation, Physical Conditioning, Music Interpretation, Stage Presence, Instruction, Dance Styles",
+    "roles": {
+      "Dance Instructor": "Dance Technique, Instruction, Dance Styles, Music Interpretation",
+      "Choreographer": "Choreography, Performance, Stage Presence, Improvisation"
+    }
+  },
+  "Data Storage Technologies": {
+    "baseline_skills": "Databases, Data Warehousing, Cloud Storage, Backup and Recovery, Data Lakes, BigQuery, Amazon S3, HDFS, SQL, NoSQL",
+    "roles": {
+      "Data Storage Engineer": "Cloud Storage, Backup and Recovery, HDFS, Amazon S3",
+      "Database Administrator": "SQL, NoSQL, Databases, Data Warehousing"
+    }
+  },
+  "Data-driven Decision Making": {
+    "baseline_skills": "Business Intelligence, Data Interpretation, KPI Tracking, Dashboards, Data Visualization, Decision Trees, Predictive Analytics, Reporting Tools",
+    "roles": {
+      "BI Analyst": "Business Intelligence, Dashboards, KPI Tracking, Reporting Tools",
+      "Strategic Analyst": "Data Interpretation, Predictive Analytics, Decision Trees"
+    }
+  },
+  "Debt Collection": {
+    "baseline_skills": "Debt Recovery, Negotiation, Accounts Receivable, Collections Management, Payment Processing, Credit Analysis, Customer Communication, Compliance, Dispute Resolution",
+    "roles": {
+      "Collections Specialist": "Debt Recovery, Negotiation, Customer Communication, Accounts Receivable",
+      "Credit Controller": "Payment Processing, Compliance, Credit Analysis, Dispute Resolution"
+    }
+  },
+  "Delivery Operations": {
+    "baseline_skills": "Logistics, Route Planning, Fleet Management, On-time Delivery, Dispatch Coordination, Inventory Tracking, Last Mile Delivery, Shipment Tracking, Safety Compliance",
+    "roles": {
+      "Delivery Manager": "Fleet Management, Route Planning, Dispatch Coordination, Logistics",
+      "Logistics Coordinator": "Inventory Tracking, Last Mile Delivery, Safety Compliance, Shipment Tracking"
+    }
+  },
+  "Dentistry": {
+    "baseline_skills": "Oral Health, Dental Procedures, X-ray Interpretation, Tooth Extraction, Dental Hygiene, Patient Care, Restorative Dentistry, Preventive Dentistry, Infection Control",
+    "roles": {
+      "Dentist": "Dental Procedures, Tooth Extraction, Restorative Dentistry, X-ray Interpretation",
+      "Dental Hygienist": "Oral Health, Dental Hygiene, Preventive Dentistry, Patient Care"
+    }
+  },
+  "Dermatology": {
+    "baseline_skills": "Skin Examinations, Dermatological Procedures, Biopsies, Acne Treatment, Skin Cancer Screening, Cosmetic Dermatology, Patient Consultation, Prescription Management",
+    "roles": {
+      "Dermatologist": "Skin Examinations, Biopsies, Acne Treatment, Skin Cancer Screening",
+      "Dermatology Assistant": "Patient Consultation, Prescription Management, Cosmetic Dermatology"
+    }
+  },
+  "Development Tools": {
+    "baseline_skills": "Version Control, IDE Usage, Debugging, Build Tools, Code Refactoring, Git, JIRA, Continuous Integration, Code Review Tools",
+    "roles": {
+      "DevOps Engineer": "Git, Build Tools, Continuous Integration, Code Review Tools",
+      "Software Developer": "IDE Usage, Debugging, Version Control, Code Refactoring"
+    }
+  },
+  "Digital Literacy": {
+    "baseline_skills": "Internet Research, Email Communication, Document Formatting, Spreadsheets, Presentation Tools, Online Collaboration, Data Privacy Awareness, Social Media Usage",
+    "roles": {
+      "Digital Literacy Trainer": "Internet Research, Email Communication, Online Collaboration, Presentation Tools",
+      "IT Assistant": "Document Formatting, Spreadsheets, Data Privacy Awareness"
+    }
+  },
+  "Digital Marketing": {
+    "baseline_skills": "SEO, SEM, Google Ads, Email Marketing, Social Media Strategy, Content Marketing, Analytics Tools, A/B Testing, Conversion Rate Optimization",
+    "roles": {
+      "Digital Marketing Specialist": "SEO, Google Ads, Email Marketing, A/B Testing",
+      "Content Strategist": "Content Marketing, Social Media Strategy, Analytics Tools, Conversion Rate Optimization"
+    }
+  },
+  "Documentation": {
+    "baseline_skills": "Technical Writing, Version Control, Documentation Tools, Editing, Formatting, Information Architecture, Style Guides, Collaboration",
+    "roles": {
+      "Technical Writer": "Technical Writing, Documentation Tools, Style Guides, Formatting",
+      "Documentation Specialist": "Version Control, Editing, Collaboration, Information Architecture"
+    }
+  },
+  "Drilling Engineering": {
+    "baseline_skills": "Well Planning, Drilling Operations, Mud Engineering, Directional Drilling, Rig Operations, Safety Protocols, Reservoir Engineering, Petroleum Engineering",
+    "roles": {
+      "Drilling Engineer": "Well Planning, Drilling Operations, Mud Engineering, Directional Drilling",
+      "Rig Supervisor": "Rig Operations, Safety Protocols, Petroleum Engineering"
+    }
+  },
+  "Earth Science": {
+    "baseline_skills": "Geology, Hydrology, Meteorology, Seismology, Environmental Science, Field Studies, Data Analysis, GIS, Remote Sensing",
+    "roles": {
+      "Geoscientist": "Geology, Hydrology, Field Studies, Data Analysis",
+      "Earth Science Researcher": "Seismology, Meteorology, Remote Sensing, Environmental Science"
+    }
+  },
+  "Economics": {
+    "baseline_skills": "Microeconomics, Macroeconomics, Econometric Modeling, Policy Analysis, Data Interpretation, Statistical Tools, Market Analysis, Forecasting",
+    "roles": {
+      "Economist": "Microeconomics, Macroeconomics, Policy Analysis, Forecasting",
+      "Economic Analyst": "Econometric Modeling, Statistical Tools, Data Interpretation, Market Analysis"
+    }
+  },
+  "Editing": {
+    "baseline_skills": "Grammar and Style, Proofreading, Content Review, Editing Tools, Formatting, Punctuation, Fact-checking, Consistency Checking",
+    "roles": {
+      "Editor": "Grammar and Style, Content Review, Formatting, Fact-checking",
+      "Proofreader": "Proofreading, Punctuation, Consistency Checking, Editing Tools"
+    }
+  },
+  "Educational Administration": {
+    "baseline_skills": "School Management, Policy Implementation, Curriculum Oversight, Staff Coordination, Budgeting, Accreditation, Student Affairs, Compliance Management",
+    "roles": {
+      "School Administrator": "School Management, Staff Coordination, Policy Implementation, Budgeting",
+      "Dean of Students": "Student Affairs, Accreditation, Curriculum Oversight, Compliance Management"
+    }
+  },
+  "Educational Research": {
+    "baseline_skills": "Quantitative Research, Qualitative Research, Survey Design, Data Analysis, Educational Policy, Report Writing, Statistical Software, Assessment Tools",
+    "roles": {
+      "Education Researcher": "Quantitative Research, Educational Policy, Survey Design, Assessment Tools",
+      "Research Analyst": "Statistical Software, Qualitative Research, Data Analysis, Report Writing"
+    }
+  },
+  "Electronic Control Systems": {
+    "baseline_skills": "Control Theory, PLC Programming, HMI Design, SCADA Systems, Signal Processing, Automation, Sensor Integration, Embedded Systems",
+    "roles": {
+      "Control Systems Engineer": "PLC Programming, SCADA Systems, HMI Design, Sensor Integration",
+      "Automation Engineer": "Control Theory, Signal Processing, Automation, Embedded Systems"
+    }
+  },
+  "Electronics": {
+    "baseline_skills": "Arduino, Consumer Electronics, Electrical Wiring, Electronics, Embedded Systems, Integrated Circuits (IC), Semiconductor Industry, Semiconductors, Sensors, Soldering",
+    "roles": {
+      "Electronics Analyst": "Consumer Electronics, Electrical Wiring, Electronics",
+      "Electronics Coordinator": "Consumer Electronics, Electrical Wiring, Electronics, Semiconductors",
+      "Electronics Specialist": "Consumer Electronics, Electrical Wiring, Electronics",
+      "Electronics Manager": "Consumer Electronics, Electrical Wiring, Electronics"
+    }
+  },
+  "Emergency Medicine": {
+    "baseline_skills": "Trauma Care, Emergency Procedures, Triage, CPR, Acute Patient Management, Medical Equipment Use, Rapid Diagnosis, Life Support, Emergency Protocols",
+    "roles": {
+      "Emergency Physician": "Trauma Care, Rapid Diagnosis, Life Support, Emergency Procedures",
+      "ER Nurse": "Triage, CPR, Acute Patient Management, Medical Equipment Use"
+    }
+  },
+  "Employee Learning & Development": {
+    "baseline_skills": "Training Program Design, Instructional Design, eLearning Tools, Performance Assessment, Leadership Development, Learning Management Systems (LMS), Workshop Facilitation, Coaching",
+    "roles": {
+      "L&D Specialist": "Training Program Design, eLearning Tools, Workshop Facilitation, Performance Assessment",
+      "Corporate Trainer": "Instructional Design, Leadership Development, LMS, Coaching"
+    }
+  },
+  "Employment Law": {
+    "baseline_skills": "Labor Law Compliance, Employment Contracts, Workplace Discrimination, Employee Rights, HR Policies, Termination Procedures, Legal Documentation, Dispute Resolution",
+    "roles": {
+      "Employment Lawyer": "Labor Law Compliance, Employment Contracts, Workplace Discrimination, Legal Documentation",
+      "HR Legal Advisor": "Employee Rights, HR Policies, Termination Procedures, Dispute Resolution"
+    }
+  },
+  "Enterprise Software": {
+    "baseline_skills": "ERP Systems, CRM Platforms, Software Integration, User Training, Change Management, Data Migration, Enterprise Architecture, Workflow Automation",
+    "roles": {
+      "ERP Consultant": "ERP Systems, Data Migration, Change Management, Workflow Automation",
+      "Enterprise Software Analyst": "CRM Platforms, Software Integration, User Training, Enterprise Architecture"
+    }
+  },
+  "Entrepreneurship": {
+    "baseline_skills": "Business Planning, Startup Strategy, Fundraising, Pitching, Financial Modeling, Risk Management, Product-Market Fit, Growth Hacking, Lean Startup Methods",
+    "roles": {
+      "Startup Founder": "Business Planning, Fundraising, Pitching, Product-Market Fit",
+      "Entrepreneur-in-Residence": "Startup Strategy, Lean Startup Methods, Financial Modeling, Growth Hacking"
+    }
+  },
+  "Environmental Consulting": {
+    "baseline_skills": "Environmental Impact Assessment, Regulatory Compliance, Sustainability Reporting, Soil and Water Testing, Environmental Site Assessments, Permit Writing, Remediation Planning, Air Quality Monitoring",
+    "roles": {
+      "Environmental Consultant": "Environmental Impact Assessment, Sustainability Reporting, Permit Writing, Regulatory Compliance",
+      "Environmental Field Technician": "Soil and Water Testing, Environmental Site Assessments, Remediation Planning, Air Quality Monitoring"
+    }
+  },
+  "Environmental Engineering": {
+    "baseline_skills": "Water Treatment, Waste Management, Environmental Impact Analysis, Remediation Engineering, Air Pollution Control, Sustainable Design, Regulatory Standards, Soil Mechanics",
+    "roles": {
+      "Environmental Engineer": "Water Treatment, Waste Management, Air Pollution Control, Regulatory Standards",
+      "Remediation Engineer": "Remediation Engineering, Soil Mechanics, Environmental Impact Analysis, Sustainable Design"
+    }
+  },
+  "Environmental Science": {
+    "baseline_skills": "Ecological Assessment, Environmental Monitoring, GIS, Water Sampling, Data Analysis, Fieldwork, Climate Studies, Environmental Policy",
+    "roles": {
+      "Environmental Scientist": "Ecological Assessment, Environmental Monitoring, Water Sampling, Fieldwork",
+      "Climate Analyst": "Climate Studies, Data Analysis, Environmental Policy, GIS"
+    }
+  },
+  "Event Planning": {
+    "baseline_skills": "Event Coordination, Budgeting, Vendor Management, Logistics Planning, Client Communication, Timeline Management, Catering Coordination, Venue Selection",
+    "roles": {
+      "Event Planner": "Event Coordination, Vendor Management, Timeline Management, Client Communication",
+      "Event Coordinator": "Budgeting, Logistics Planning, Catering Coordination, Venue Selection"
+    }
+  },
+  "Evolutionary Biology": {
+    "baseline_skills": "Genetics, Natural Selection, Speciation, Phylogenetics, Molecular Evolution, Population Genetics, Evolutionary Theory, Bioinformatics",
+    "roles": {
+      "Evolutionary Biologist": "Natural Selection, Speciation, Evolutionary Theory, Phylogenetics",
+      "Genomics Researcher": "Genetics, Bioinformatics, Population Genetics, Molecular Evolution"
+    }
+  },
+  "Family Law": {
+    "baseline_skills": "Divorce Proceedings, Custody Agreements, Legal Documentation, Child Support, Domestic Violence Law, Family Mediation, Court Representation, Property Division",
+    "roles": {
+      "Family Lawyer": "Divorce Proceedings, Custody Agreements, Court Representation, Child Support",
+      "Family Law Mediator": "Family Mediation, Legal Documentation, Property Division, Domestic Violence Law"
+    }
+  },
+  "Family Medicine": {
+    "baseline_skills": "Primary Care, Preventive Medicine, Chronic Disease Management, Patient Education, Physical Examinations, Health Screenings, Clinical Documentation, Care Coordination",
+    "roles": {
+      "Family Physician": "Primary Care, Chronic Disease Management, Patient Education, Health Screenings",
+      "Family Nurse Practitioner": "Preventive Medicine, Physical Examinations, Care Coordination, Clinical Documentation"
+    }
+  },
+  "Financial Accounting": {
+    "baseline_skills": "GAAP, Financial Reporting, Balance Sheet Analysis, Journal Entries, Ledger Management, Accounts Reconciliation, Financial Statements, Internal Controls, Audit Preparation",
+    "roles": {
+      "Financial Accountant": "Financial Reporting, GAAP, Ledger Management, Internal Controls",
+      "Accounting Analyst": "Balance Sheet Analysis, Journal Entries, Accounts Reconciliation, Financial Statements"
+    }
+  },
+  "Fishing": {
+    "baseline_skills": "Net Casting, Baiting Techniques, Fish Identification, Navigation, Boat Handling, Fishing Equipment Maintenance, Safety Protocols, Catch Storage, Weather Monitoring",
+    "roles": {
+      "Fisherman": "Net Casting, Baiting Techniques, Fish Identification, Catch Storage",
+      "Fishing Boat Operator": "Navigation, Boat Handling, Safety Protocols, Weather Monitoring"
+    }
+  },
+  "Flexible Approach": {
+    "baseline_skills": "Adaptability, Problem Solving, Time Management, Collaboration, Agile Thinking, Critical Thinking, Empathy, Conflict Resolution, Change Management",
+    "roles": {
+      "Change Management Specialist": "Adaptability, Change Management, Problem Solving, Collaboration",
+      "Team Lead": "Time Management, Empathy, Conflict Resolution, Critical Thinking"
+    }
+  },
+  "Fluid Dynamics": {
+    "baseline_skills": "Fluid Mechanics, CFD (Computational Fluid Dynamics), Turbulence Modeling, Boundary Conditions, Navier-Stokes Equations, Flow Simulation, ANSYS Fluent, Heat Transfer, Aerodynamics",
+    "roles": {
+      "CFD Engineer": "CFD, ANSYS Fluent, Flow Simulation, Boundary Conditions",
+      "Fluid Dynamics Researcher": "Fluid Mechanics, Turbulence Modeling, Navier-Stokes Equations, Heat Transfer"
+    }
+  },
+  "Food Manufacturing": {
+    "baseline_skills": "Food Safety, GMP Compliance, Quality Assurance, Packaging, Production Planning, Hazard Analysis (HACCP), Inventory Control, Process Optimization, Regulatory Compliance",
+    "roles": {
+      "Food Production Manager": "Food Safety, Production Planning, GMP Compliance, Process Optimization",
+      "Quality Assurance Technician": "Quality Assurance, HACCP, Packaging, Regulatory Compliance"
+    }
+  },
+  "Food Service Operations": {
+    "baseline_skills": "Menu Planning, Inventory Management, Food Preparation, Kitchen Safety, Sanitation Standards, Customer Service, Team Supervision, POS Systems, Scheduling",
+    "roles": {
+      "Food Service Manager": "Menu Planning, Inventory Management, Team Supervision, Scheduling",
+      "Line Cook": "Food Preparation, Kitchen Safety, POS Systems, Sanitation Standards"
+    }
+  },
+  "Foreign Languages": {
+    "baseline_skills": "Translation, Interpretation, Linguistics, Grammar Proficiency, Reading Comprehension, Speaking Fluency, Cultural Understanding, Language Instruction, Accent Reduction",
+    "roles": {
+      "Language Instructor": "Language Instruction, Grammar Proficiency, Speaking Fluency, Cultural Understanding",
+      "Translator": "Translation, Reading Comprehension, Accent Reduction, Linguistics"
+    }
+  },
+  "Forestry": {
+    "baseline_skills": "Forest Management, Tree Identification, Ecology, GIS Mapping, Wildlife Conservation, Timber Harvesting, Soil Analysis, Fire Management, Environmental Compliance",
+    "roles": {
+      "Forester": "Forest Management, Tree Identification, Timber Harvesting, Soil Analysis",
+      "Conservation Officer": "Wildlife Conservation, Fire Management, GIS Mapping, Environmental Compliance"
+    }
+  },
+  "Game Development": {
+    "baseline_skills": "Game Design, C++, Unity, Unreal Engine, 3D Modeling, Gameplay Programming, Storyboarding, Level Design, Bug Testing, Game Physics",
+    "roles": {
+      "Game Developer": "Unity, Unreal Engine, Gameplay Programming, Bug Testing",
+      "Game Designer": "Game Design, Level Design, Storyboarding, Game Physics"
+    }
+  },
+  "Gastroenterology": {
+    "baseline_skills": "Endoscopy, GI Tract Disorders, Patient Assessment, Medical Imaging, Nutrition Counseling, Biopsy Procedures, Digestive Disease Management, Treatment Planning",
+    "roles": {
+      "Gastroenterologist": "Endoscopy, GI Tract Disorders, Digestive Disease Management, Treatment Planning",
+      "GI Nurse": "Patient Assessment, Nutrition Counseling, Biopsy Procedures, Medical Imaging"
+    }
+  },
+  "General Surgery": {
+    "baseline_skills": "Surgical Procedures, Preoperative Assessment, Sterile Techniques, Patient Recovery, Operating Room Protocol, Postoperative Care, Wound Management, Anatomy Knowledge",
+    "roles": {
+      "Surgeon": "Surgical Procedures, Preoperative Assessment, Postoperative Care, Anatomy Knowledge",
+      "Surgical Nurse": "Sterile Techniques, Operating Room Protocol, Wound Management, Patient Recovery"
+    }
+  },
+  "Genetic Engineering": {
+    "baseline_skills": "DNA, DNA Extraction, Gel Electrophoresis, Genetics, Genomics, Molecular Biology, Molecular Cloning, Polymerase Chain Reaction (PCR), Protein Expression, Real-Time Polymerase Chain Reaction (qPCR)",
+    "roles": {
+      "Genetic Engineering Manager": "",
+      "Genetic Engineering Analyst": "Genetics",
+      "Genetic Engineering Specialist": "Genetics",
+      "Genetic Engineer": "Genetics, Genomics",
+      "Genetic Engineering Coordinator": ""
+    }
+  },
+  "Geotechnical Engineering": {
+    "baseline_skills": "Earthworks, Excavation, Foundation Design, Geotechnical Engineering, Highways, Pavement Engineering, Rock Mechanics, Seismic Design, Slope Stability, Tunnels",
+    "roles": {
+      "Geotechnical Engineering Analyst": "Geotechnical Engineering, Pavement Engineering",
+      "Geotechnical Engineer": "Geotechnical Engineering, Pavement Engineering",
+      "Geotechnical Engineering Coordinator": "Geotechnical Engineering, Pavement Engineering",
+      "Geotechnical Engineering Manager": "Geotechnical Engineering, Pavement Engineering",
+      "Geotechnical Engineering Specialist": "Geotechnical Engineering, Pavement Engineering"
+    }
+  },
+  "Graphic Design": {
+    "baseline_skills": "Adobe Creative Suite, Adobe Illustrator, Adobe Photoshop, Art Direction, Drawing, Graphics, Illustration, InDesign, Logo Design, Web Design",
+    "roles": {
+      "Graphic Design Manager": "Graphics, InDesign, Logo Design, Web Design",
+      "Graphic Design Specialist": "Graphics, InDesign, Logo Design, Web Design",
+      "Graphic Design Coordinator": "Graphics, InDesign, Logo Design, Web Design",
+      "Graphic Design Analyst": "Graphics, InDesign, Logo Design, Web Design"
+    }
+  },
+  "Ground Transportation": {
+    "baseline_skills": "Dispatching, Fleet Management, Forklift Operation, LTL Shipping, Rail Transport, Road, Shipping, Shipping & Receiving, Trucking, Truckload Shipping",
+    "roles": {
+      "Ground Transportation Coordinator": "Rail Transport",
+      "Ground Transportation Manager": "Rail Transport",
+      "Ground Transportation Specialist": "Rail Transport",
+      "Ground Transportation Analyst": "Rail Transport"
+    }
+  },
+  "Growth Strategies": {
+    "baseline_skills": "Acquisition Integration, Acquisitions, Corporate Development, Customer Acquisition, Financial Structuring, International Business Development, LBO, Market Entry, Mergers & Acquisitions, Restructuring",
+    "roles": {
+      "Growth Strategies Analyst": "",
+      "Growth Strategies Specialist": "Corporate Development",
+      "Growth Strategies Manager": "",
+      "Growth Strategies Coordinator": ""
+    }
+  },
+  "Healthcare Management": {
+    "baseline_skills": "Healthcare Administration, Budgeting, Healthcare Compliance, Patient Experience, Electronic Health Records (EHR), Staff Management, Healthcare Policy, Strategic Planning",
+    "roles": {
+      "Healthcare Administrator": "Healthcare Administration, Budgeting, Staff Management, Healthcare Policy",
+      "Clinical Manager": "Patient Experience, EHR, Strategic Planning, Healthcare Compliance"
+    }
+  },
+  "Higher Education": {
+    "baseline_skills": "Academic Advising, Curriculum Development, Research Supervision, Admissions Counseling, Higher Ed Policy, Accreditation, Student Services, Faculty Development",
+    "roles": {
+      "Academic Advisor": "Academic Advising, Student Services, Admissions Counseling",
+      "Dean": "Curriculum Development, Research Supervision, Faculty Development, Higher Ed Policy"
+    }
+  },
+  "History": {
+    "baseline_skills": "Historical Analysis, Archival Research, Critical Thinking, Source Evaluation, Historical Writing, Oral History, Primary Sources, Cultural Context",
+    "roles": {
+      "Historian": "Historical Analysis, Primary Sources, Historical Writing, Cultural Context",
+      "History Professor": "Archival Research, Source Evaluation, Oral History, Critical Thinking"
+    }
+  },
+  "Hosting Services": {
+    "baseline_skills": "Web Hosting, DNS Management, Control Panels (cPanel, Plesk), Server Administration, SSL Configuration, Backup & Recovery, Website Migration, Email Hosting, Cloud Hosting",
+    "roles": {
+      "Hosting Support Specialist": "Web Hosting, DNS Management, SSL Configuration, Email Hosting",
+      "Server Administrator": "Server Administration, Control Panels, Backup & Recovery, Website Migration"
+    }
+  },
+  "Human Computer Interaction": {
+    "baseline_skills": "Bootstrap, Experience Design, Human Factors, Interaction Design, Usability, Usability Testing, User Experience, User Experience Design, User Interface Design, Wireframing",
+    "roles": {
+      "Human Computer Interaction Analyst": "Human Factors, Interaction Design, User Interface Design",
+      "Human Computer Interaction Specialist": "Human Factors, Interaction Design, User Interface Design",
+      "Human Computer Interaction Manager": "Human Factors, Interaction Design, User Interface Design",
+      "Human Computer Interaction Coordinator": "Human Factors, Interaction Design, User Interface Design"
+    }
+  },
+  "Human Resources": {
+    "baseline_skills": "Compensation & Benefits, Employee Relations, HR Consulting, HR Policies, HRIS, Human Resources Information Systems (HRIS), Labor Law, Labor Relations, New Hire Orientations, Onboarding, Performance Management, Recruitment, Succession Planning, Talent Management, Training & Development, Workforce Planning",
+    "roles": {
+      "Human Resources Specialist": "Compensation & Benefits, Employee Relations, HR Policies, HRIS, Human Resources Information Systems (HRIS), Labor Law, Onboarding, Performance Management, Recruitment, Succession Planning, Training & Development",
+      "Human Resources Manager": "Compensation & Benefits, Employee Relations, HR Policies, HRIS, Human Resources Information Systems (HRIS), Labor Law, Onboarding, Performance Management, Recruitment, Succession Planning, Talent Management, Training & Development, Workforce Planning",
+      "Human Resources Analyst": "Compensation & Benefits, Employee Relations, HR Policies, HRIS, Human Resources Information Systems (HRIS), Labor Law, Onboarding, Performance Management, Recruitment, Succession Planning, Training & Development",
+      "Human Resources Coordinator": "Compensation & Benefits, Employee Relations, HR Policies, HRIS, Human Resources Information Systems (HRIS), Labor Law, New Hire Orientations, Onboarding, Performance Management, Recruitment, Succession Planning, Training & Development"
+    }
+  },
+  "Industrial Design": {
+    "baseline_skills": "Concept Art, Concept Development, Design Engineering, Design Strategy, Design Thinking, Ergonomics, Model Making, Rapid Prototyping, Sketching, User-centered Design",
+    "roles": {
+      "Industrial Design": "Design Engineering, Design Strategy, Design Thinking, User-centered Design",
+      "Industrial Design Analyst": "Design Engineering, Design Strategy, Design Thinking, User-centered Design",
+      "Industrial Design Coordinator": "Design Engineering, Design Strategy, Design Thinking, User-centered Design",
+      "Industrial Design Specialist": "Design Engineering, Design Strategy, Design Thinking, User-centered Design",
+      "Industrial Design Manager": "Design Engineering, Design Strategy, Design Thinking, User-centered Design"
+    }
+  },
+  "Information Management": {
+    "baseline_skills": "Content Management, Content Management Systems (CMS), Document Management, Enterprise Content Management, Knowledge Management, Laboratory Information Management System (LIMS), Records Management, SharePoint, SharePoint Designer, Symfony",
+    "roles": {
+      "Information Management Manager": "Content Management, Content Management Systems (CMS), Document Management, Enterprise Content Management, Knowledge Management, Laboratory Information Management System (LIMS), Records Management",
+      "Information Management Coordinator": "Content Management, Content Management Systems (CMS), Document Management, Enterprise Content Management, Knowledge Management, Laboratory Information Management System (LIMS), Records Management",
+      "Information Management Specialist": "Content Management, Content Management Systems (CMS), Document Management, Enterprise Content Management, Knowledge Management, Laboratory Information Management System (LIMS), Records Management",
+      "Information Management Analyst": "Content Management, Content Management Systems (CMS), Document Management, Enterprise Content Management, Knowledge Management, Laboratory Information Management System (LIMS), Records Management"
+    }
+  },
+  "Inorganic Chemistry": {
+    "baseline_skills": "Adsorption, Catalysis, Heterogeneous Catalysis, Inorganic Chemistry, Inorganic Synthesis, Organometallic Chemistry, Physical Chemistry, Precious Metals, Silicones, Surface Chemistry",
+    "roles": {
+      "Inorganic Chemistry Coordinator": "Inorganic Chemistry, Inorganic Synthesis, Organometallic Chemistry, Physical Chemistry, Surface Chemistry",
+      "Inorganic Chemistry Manager": "Inorganic Chemistry, Inorganic Synthesis, Organometallic Chemistry, Physical Chemistry, Surface Chemistry",
+      "Inorganic Chemistry Analyst": "Inorganic Chemistry, Inorganic Synthesis, Organometallic Chemistry, Physical Chemistry, Surface Chemistry",
+      "Inorganic Chemistry Specialist": "Inorganic Chemistry, Inorganic Synthesis, Organometallic Chemistry, Physical Chemistry, Surface Chemistry"
+    }
+  },
+  "Inside Sales": {
+    "baseline_skills": "Account Management, Cold Calling, Consultative Selling, Direct Sales, International Sales, Sales Effectiveness, Sales Process, Solution Selling, Telemarketing, Territory Management",
+    "roles": {
+      "Inside Sales Specialist": "Consultative Selling, Direct Sales, International Sales, Sales Effectiveness, Sales Process",
+      "Inside Sales Analyst": "Direct Sales, International Sales, Sales Effectiveness, Sales Process",
+      "Inside Sales Manager": "Account Management, Consultative Selling, Direct Sales, International Sales, Sales Effectiveness, Sales Process",
+      "Inside Sales Coordinator": "Consultative Selling, Direct Sales, International Sales, Sales Effectiveness, Sales Process"
+    }
+  },
+  "Instrumentation": {
+    "baseline_skills": "Calibration, Data Acquisition, Electronic Instrumentation, Industrial Control, Instrument Control, Instrumentation, Measurements, Meters",
+    "roles": {
+      "Instrumentation Coordinator": "Electronic Instrumentation, Industrial Control, Instrument Control, Instrumentation",
+      "Instrumentation Analyst": "Calibration, Electronic Instrumentation, Industrial Control, Instrument Control, Instrumentation",
+      "Instrumentation Specialist": "Electronic Instrumentation, Industrial Control, Instrument Control, Instrumentation",
+      "Instrumentation Manager": "Calibration, Electronic Instrumentation, Instrument Control, Instrumentation"
+    }
+  },
+  "Insurance": {
+    "baseline_skills": "Claims Management, Commercial Insurance, General Insurance, Health Insurance, Insurance, Liability, Life Insurance, Property & Casualty Insurance, Risk Management, Underwriting",
+    "roles": {
+      "Insurance Coordinator": "Commercial Insurance, General Insurance, Health Insurance, Insurance, Life Insurance, Property & Casualty Insurance",
+      "Insurance Specialist": "Commercial Insurance, General Insurance, Health Insurance, Insurance, Life Insurance, Property & Casualty Insurance",
+      "Insurance Manager": "Claims Management, Commercial Insurance, General Insurance, Health Insurance, Insurance, Life Insurance, Property & Casualty Insurance, Risk Management",
+      "Insurance Analyst": "Claims Management, Commercial Insurance, General Insurance, Health Insurance, Insurance, Life Insurance, Property & Casualty Insurance, Risk Management"
+    }
+  },
+  "Intellectual Property": {
+    "baseline_skills": "Copyright Law, Intellectual Property, Licensing, Patent Law, Patent Litigation, Patent Prosecution, Patentability, Trade Secrets, Trademark Infringement, Trademarks",
+    "roles": {
+      "Intellectual Property Coordinator": "Intellectual Property",
+      "Intellectual Property Manager": "Intellectual Property",
+      "Intellectual Property Specialist": "Intellectual Property",
+      "Intellectual Property Analyst": "Intellectual Property"
+    }
+  },
+  "Interior Design": {
+    "baseline_skills": "Building Materials, Flooring, Furnishings, Furniture, Interior Architecture, Interior Design, Lighting Design, Refurbishments, Retail Design, Space Planning",
+    "roles": {
+      "Interior Design Specialist": "Building Materials, Interior Architecture, Interior Design, Lighting Design, Retail Design",
+      "Interior Design Analyst": "Building Materials, Interior Architecture, Interior Design, Lighting Design, Retail Design",
+      "Interior Design Coordinator": "Interior Architecture, Interior Design, Lighting Design, Retail Design",
+      "Interior Design Manager": "Interior Architecture, Interior Design, Lighting Design, Retail Design"
+    }
+  },
+  "International Law": {
+    "baseline_skills": "Cross-border Transactions, European Law, European Union, Export, Human Rights, Immigration Law, International Arbitration, International Business, International Law, International Trade",
+    "roles": {
+      "International Law Manager": "European Law, Immigration Law, International Arbitration, International Business, International Law, International Trade",
+      "International Law Specialist": "European Law, Immigration Law, International Arbitration, International Business, International Law, International Trade",
+      "International Lawyer": "Immigration Law, International Arbitration, International Business, International Law, International Trade",
+      "International Law Coordinator": "European Law, Immigration Law, International Arbitration, International Business, International Law, International Trade",
+      "International Law Analyst": "European Law, Immigration Law, International Arbitration, International Business, International Law, International Trade"
+    }
+  },
+  "Inventory Management": {
+    "baseline_skills": "Distribution Center Operations, Enterprise Resource Planning (ERP), Inventory Control, Inventory Management, Materials Management, Order Management, SAP Sales & Distribution, Stock Management, Warehouse Management Systems, Warehouse Operations",
+    "roles": {
+      "Inventory Management Specialist": "Inventory Control, Inventory Management, Materials Management, Order Management, Stock Management, Warehouse Management Systems",
+      "Inventory Management Analyst": "Inventory Control, Inventory Management, Materials Management, Order Management, Stock Management, Warehouse Management Systems",
+      "Inventory Management Manager": "Inventory Control, Inventory Management, Materials Management, Order Management, Stock Management, Warehouse Management Systems",
+      "Inventory Management Coordinator": "Inventory Control, Inventory Management, Materials Management, Order Management, Stock Management, Warehouse Management Systems"
+    }
+  },
+  "Investment Banking": {
+    "baseline_skills": "Asset Management, Financial Planning, Financial Services, Hedge Funds, Investment Banking, Investments, Mutual Funds, Private Equity, Retirement Planning, Wealth Management",
+    "roles": {
+      "Investment Banking Specialist": "Financial Services, Investment Banking, Investments, Retirement Planning",
+      "Investment Banking Analyst": "Investment Banking, Investments, Retirement Planning",
+      "Investment Banking Manager": "Asset Management, Investment Banking, Investments, Retirement Planning, Wealth Management",
+      "Investment Banking Coordinator": "Investment Banking, Investments, Retirement Planning"
+    }
+  },
+  "Investor Relations": {
+    "baseline_skills": "Board of Directors Reporting, Capital Raising, Investor Relations, Public Companies, SEC Financial Reporting, Securities Offerings, Stock Compensation, U.S. SEC Filings, U.S. Securities and Exchange Commission (SEC), XBRL",
+    "roles": {
+      "Investor Relations Specialist": "Investor Relations, Stock Compensation",
+      "Investor Relations Manager": "Board of Directors Reporting, Investor Relations, Stock Compensation",
+      "Investor Relations Coordinator": "Investor Relations, Stock Compensation",
+      "Investor Relations Analyst": "Board of Directors Reporting, Investor Relations, Stock Compensation"
+    }
+  },
+  "Journalism": {
+    "baseline_skills": "AP Stylebook, Breaking News, Broadcast Journalism, Digital Publishing, Journalism, Magazines, Newspapers, Online Journalism, Reporting, Sports Writing",
+    "roles": {
+      "Journalism Manager": "Broadcast Journalism, Journalism, Online Journalism",
+      "Journalism Analyst": "Broadcast Journalism, Journalism, Online Journalism",
+      "Journalism Specialist": "Broadcast Journalism, Journalism, Online Journalism",
+      "Journalism Coordinator": "Broadcast Journalism, Journalism, Online Journalism"
+    }
+  },
+  "K-12 Education": {
+    "baseline_skills": "Classroom Management, Differentiated Instruction, Elementary Education, K-12 Education, Lesson Planning, Literacy, Secondary Education, Special Education, Teacher Training, Tutoring",
+    "roles": {
+      "K-12 Education Specialist": "Elementary Education, K-12 Education, Secondary Education, Special Education",
+      "K-12 Education Manager": "Classroom Management, Elementary Education, K-12 Education, Secondary Education, Special Education",
+      "K-12 Education Analyst": "Elementary Education, K-12 Education, Secondary Education, Special Education",
+      "K-12 Education Coordinator": "Elementary Education, K-12 Education, Secondary Education, Special Education"
+    }
+  },
+  "Kinesiology": {
+    "baseline_skills": "Biomechanics, Bodybuilding, Corrective Exercise, Exercise Physiology, Gait Analysis, Group Exercise, Kinesiology, Low Back Pain, Musculoskeletal Injuries, Musculoskeletal Physiotherapy",
+    "roles": {
+      "Kinesiology Analyst": "Exercise Physiology, Gait Analysis, Kinesiology",
+      "Kinesiology Manager": "Exercise Physiology, Kinesiology",
+      "Kinesiology Specialist": "Exercise Physiology, Kinesiology",
+      "Kinesiology Coordinator": "Exercise Physiology, Kinesiology"
+    }
+  },
+  "Landscape Architecture": {
+    "baseline_skills": "Garden, Garden Design, Horticulture, Landscape Architecture, Landscape Design, Landscape Maintenance, Landscaping, Lawn Care, Plant Identification, Tree Planting",
+    "roles": {
+      "Landscape Architecture Specialist": "Landscape Architecture, Landscape Design, Landscape Maintenance, Landscaping",
+      "Landscape Architecture Analyst": "Landscape Architecture, Landscape Design, Landscape Maintenance, Landscaping",
+      "Landscape Architecture Coordinator": "Landscape Architecture, Landscape Design, Landscape Maintenance, Landscaping",
+      "Landscape Architecture Manager": "Landscape Architecture, Landscape Design, Landscape Maintenance, Landscaping"
+    }
+  },
+  "Law": {
+    "baseline_skills": "Appeals, Commercial Litigation, Corporate Governance, Corporate Law, Legal Advice, Legal Assistance, Legal Research, Legal Writing, Litigation, Regulatory Affairs",
+    "roles": {
+      "Lawyer": "Legal Writing",
+      "Law Specialist": "Appeals, Corporate Law, Legal Assistance, Legal Writing",
+      "Law Manager": "Corporate Law, Legal Advice, Legal Assistance, Legal Writing, Regulatory Affairs",
+      "Law Coordinator": "Corporate Law, Legal Writing",
+      "Law Analyst": "Appeals, Corporate Law, Legal Assistance, Regulatory Affairs"
+    }
+  },
+  "Leadership": {
+    "baseline_skills": "Business Innovation, Cross-functional Team Leadership, Leadership, Organizational Leadership, Situational Leadership, Strategic Leadership, Strategic Thinking, Team Building, Team Leadership, Technical Leadership",
+    "roles": {
+      "Leadership Manager": "Cross-functional Team Leadership, Leadership, Organizational Leadership, Situational Leadership, Strategic Leadership, Team Leadership, Technical Leadership",
+      "Leadership Specialist": "Cross-functional Team Leadership, Leadership, Organizational Leadership, Situational Leadership, Strategic Leadership, Team Leadership, Technical Leadership",
+      "Leadership Coordinator": "Cross-functional Team Leadership, Leadership, Organizational Leadership, Situational Leadership, Strategic Leadership, Team Leadership, Technical Leadership",
+      "Leadership Analyst": "Cross-functional Team Leadership, Leadership, Organizational Leadership, Situational Leadership, Strategic Leadership, Team Leadership, Technical Leadership"
+    }
+  },
+  "Legislation": {
+    "baseline_skills": "Citizenship, Government Administration, Legislation, Legislative Affairs, Legislative Policy, Legislative Relations, Legislative Research, Policy Development, Regulations, State Government",
+    "roles": {
+      "Legislation Analyst": "Legislation, Legislative Affairs, Legislative Policy, Legislative Relations, Legislative Research, Regulations",
+      "Legislation Specialist": "Legislation, Legislative Affairs, Legislative Policy, Legislative Relations, Legislative Research, Regulations",
+      "Legislation Manager": "Legislation, Legislative Affairs, Legislative Policy, Legislative Relations, Legislative Research, Regulations",
+      "Legislation Coordinator": "Legislation, Legislative Affairs, Legislative Policy, Legislative Relations, Legislative Research, Regulations"
+    }
+  },
+  "Library Science": {
+    "baseline_skills": "Archives, Cataloging, Collection Development, Digital Libraries, Information Literacy, Library Instruction, Library Management, Library Research, Library Services, Metadata",
+    "roles": {
+      "Library Science Specialist": "Digital Libraries, Library Instruction, Library Management, Library Research, Library Services",
+      "Library Science Manager": "Library Instruction, Library Management, Library Research, Library Services",
+      "Library Science Analyst": "Digital Libraries, Library Instruction, Library Management, Library Research, Library Services",
+      "Library Science Coordinator": "Library Instruction, Library Management, Library Research, Library Services"
+    }
+  },
+  "Linguistics": {
+    "baseline_skills": "Applied Linguistics, Computational Linguistics, Discourse Analysis, Grammar, Language Testing, Phonetics, Phonology, Pragmatics, Psycholinguistics, Syntax",
+    "roles": {
+      "Linguistics Analyst": "Applied Linguistics, Computational Linguistics, Discourse Analysis, Psycholinguistics",
+      "Linguistics Manager": "Applied Linguistics, Computational Linguistics, Discourse Analysis, Psycholinguistics",
+      "Linguistics Coordinator": "Applied Linguistics, Computational Linguistics, Psycholinguistics",
+      "Linguistics Specialist": "Applied Linguistics, Computational Linguistics, Discourse Analysis, Psycholinguistics"
+    }
+  },
+  "Literature": {
+    "baseline_skills": "Book Reviews, English Literature, Essays, Literary Criticism, Literature, Memoir, Narrative, Novels, Poetry, Short Stories",
+    "roles": {
+      "Literature Coordinator": "English Literature, Literary Criticism, Literature",
+      "Literature Manager": "English Literature, Literary Criticism, Literature",
+      "Literature Analyst": "English Literature, Literary Criticism, Literature",
+      "Literature Specialist": "English Literature, Literary Criticism, Literature"
+    }
+  },
+  "Lodging": {
+    "baseline_skills": "Front Office, Guest Service Management, Hospitality Industry, Hotel Booking, Hotel Management, Housekeeping, Opening Hotels, Property Management Systems, Reservations, Rooms Division",
+    "roles": {
+      "Lodging Specialist": "Hospitality Industry",
+      "Lodging Manager": "Guest Service Management, Hotel Management, Opening Hotels",
+      "Lodging Coordinator": "Opening Hotels",
+      "Lodging Analyst": "Opening Hotels"
+    }
+  },
+  "Machining": {
+    "baseline_skills": "Autodesk Inventor, CAD/CAM, Computer Numerical Control (CNC), Geometric Dimensioning & Tolerancing, Machine Tools, Machinery, Machining, Metal Fabrication, SolidWorks, Welding",
+    "roles": {
+      "Machining Analyst": "Machine Tools, Machinery, Machining",
+      "Machining Coordinator": "Machine Tools, Machinery, Machining",
+      "Machining Specialist": "Machine Tools, Machinery, Machining",
+      "Machining Manager": "Geometric Dimensioning & Tolerancing, Machine Tools, Machinery, Machining"
+    }
+  },
+  "Maintenance & Repair": {
+    "baseline_skills": "Computer Maintenance, Computer Repair, Heavy Equipment, Hydraulics, Maintenance, Maintenance & Repair, Maintenance Management, Mechanics, Plant Maintenance, Preventive Maintenance",
+    "roles": {
+      "Maintenance & Repair Manager": "Computer Maintenance, Computer Repair, Maintenance, Maintenance & Repair, Maintenance Management, Plant Maintenance, Preventive Maintenance",
+      "Maintenance & Repair Coordinator": "Computer Maintenance, Computer Repair, Maintenance, Maintenance & Repair, Maintenance Management, Plant Maintenance, Preventive Maintenance",
+      "Maintenance & Repair Analyst": "Computer Maintenance, Computer Repair, Maintenance, Maintenance & Repair, Maintenance Management, Plant Maintenance, Preventive Maintenance",
+      "Maintenance & Repair Specialist": "Computer Maintenance, Computer Repair, Maintenance, Maintenance & Repair, Maintenance Management, Plant Maintenance, Preventive Maintenance"
+    }
+  },
+  "Management Accounting": {
+    "baseline_skills": "Account Reconciliation, Bank Reconciliation, Budgeting, Cash Flow, Cash Management, Cost Accounting, Management Accounting, Managerial Finance, P&L Management, Variance Analysis",
+    "roles": {
+      "Management Accounting Analyst": "Cash Management, Cost Accounting, Management Accounting, Managerial Finance, P&L Management, Variance Analysis",
+      "Management Accounting Manager": "Cash Management, Cost Accounting, Management Accounting, P&L Management",
+      "Management Accounting Specialist": "Account Reconciliation, Cash Management, Cost Accounting, Management Accounting, P&L Management",
+      "Management Accounting Coordinator": "Account Reconciliation, Cash Management, Cost Accounting, Management Accounting, P&L Management",
+      "Management Accountant": "Account Reconciliation, Cash Management, Cost Accounting, Management Accounting, Managerial Finance, P&L Management"
+    }
+  },
+  "Management Consulting": {
+    "baseline_skills": "Business Analysis, Business Case, Business Intelligence, Business Modeling, Business Process Mapping, Client Presentation, Management Consulting, Market Analysis, Process Consulting, Strategic Consulting",
+    "roles": {
+      "Management Consulting Analyst": "Business Analysis, Management Consulting, Market Analysis, Process Consulting, Strategic Consulting",
+      "Management Consulting Specialist": "Management Consulting, Process Consulting, Strategic Consulting",
+      "Management Consulting Manager": "Management Consulting, Process Consulting, Strategic Consulting",
+      "Management Consulting Coordinator": "Management Consulting, Process Consulting, Strategic Consulting"
+    }
+  },
+  "Manufacturing Operations": {
+    "baseline_skills": "5S, Commissioning, Continuous Improvement, Inspection, Lean Manufacturing, Operations Management, Process Engineering, Project Engineering, Quality Management, Six Sigma",
+    "roles": {
+      "Manufacturing Operations Manager": "Lean Manufacturing, Operations Management",
+      "Manufacturing Operations Analyst": "Lean Manufacturing, Operations Management",
+      "Manufacturing Operations": "Inspection, Lean Manufacturing, Operations Management",
+      "Manufacturing Operations Coordinator": "Lean Manufacturing, Operations Management",
+      "Manufacturing Operations Specialist": "Lean Manufacturing, Operations Management"
+    }
+  },
+  "Materials Science": {
+    "baseline_skills": "Characterization, Design of Experiments, Materials, Materials Science, Metallurgy, Metrology, Raw Materials, Scanning Electron Microscopy, Spectroscopy, Thin Films",
+    "roles": {
+      "Materials Science Coordinator": "Materials, Materials Science, Raw Materials",
+      "Materials Science Analyst": "Materials, Materials Science, Raw Materials",
+      "Materials Science Manager": "Materials, Materials Science, Raw Materials",
+      "Materials Science Specialist": "Materials, Materials Science, Raw Materials"
+    }
+  },
+  "Mathematics": {
+    "baseline_skills": "Algebra, Applied Mathematics, Calculus, Fortran, Mathematica, Mathematical Analysis, Monte Carlo Simulation, Numerical Analysis, Numerical Simulation, Operations Research",
+    "roles": {
+      "Mathematics Manager": "Applied Mathematics, Mathematica, Mathematical Analysis, Numerical Analysis, Operations Research",
+      "Mathematics Specialist": "Applied Mathematics, Mathematica, Mathematical Analysis, Operations Research",
+      "Mathematics Analyst": "Applied Mathematics, Mathematica, Mathematical Analysis, Numerical Analysis",
+      "Mathematics Coordinator": "Applied Mathematics, Mathematica, Mathematical Analysis"
+    }
+  },
+  "Mining": {
+    "baseline_skills": "Base Metals, Coal, Coal Mining, Copper, Gold, Iron Ore, Mineral Processing, Minerals, Mining Engineering, Underground Mining",
+    "roles": {
+      "Mining Coordinator": "Coal Mining, Mining Engineering, Underground Mining",
+      "Mining": "Coal Mining, Mineral Processing, Minerals, Mining Engineering, Underground Mining",
+      "Mining Analyst": "Coal Mining, Minerals, Mining Engineering, Underground Mining",
+      "Mining Specialist": "Coal Mining, Minerals, Mining Engineering, Underground Mining",
+      "Mining Manager": "Coal Mining, Minerals, Mining Engineering, Underground Mining"
+    }
+  },
+  "Mobile Application Development": {
+    "baseline_skills": "Android, Android Development, Android SDK, Android Studio, Blackberry, Mobile Application Development, Mobile Applications, Mobile Internet, Windows Phone, iPhone",
+    "roles": {
+      "Mobile Application Development Coordinator": "Android Development, Mobile Application Development, Mobile Applications, Mobile Internet",
+      "Mobile Application Development Manager": "Android Development, Mobile Application Development, Mobile Applications, Mobile Internet",
+      "Mobile Application Development Analyst": "Android Development, Mobile Application Development, Mobile Applications, Mobile Internet",
+      "Mobile Application Development Specialist": "Android Development, Mobile Application Development, Mobile Applications, Mobile Internet"
+    }
+  },
+  "Music": {
+    "baseline_skills": "Audio Recording, Music, Music Composition, Music Education, Music Industry, Music Production, Musical Theatre, Singing, Songwriting, Sound",
+    "roles": {
+      "Music Coordinator": "Audio Recording, Music, Music Composition, Music Education, Music Industry, Music Production, Musical Theatre",
+      "Music Analyst": "Music, Music Composition, Music Education, Music Industry, Music Production, Musical Theatre",
+      "Music Manager": "Music, Music Composition, Music Education, Music Industry, Music Production, Musical Theatre",
+      "Music Specialist": "Music, Music Composition, Music Education, Music Industry, Music Production, Musical Theatre"
+    }
+  },
+  "Nanotechnology": {
+    "baseline_skills": "Carbon Nanotubes, Mechanical Properties, Molecular Modeling, Nanoelectronics, Nanomaterials, Nanomedicine, Nanostructures, Nanotechnology",
+    "roles": {
+      "Nanotechnology Manager": "Nanomedicine, Nanotechnology",
+      "Nanotechnology Analyst": "Nanoelectronics, Nanomaterials, Nanomedicine, Nanotechnology",
+      "Nanotechnology Specialist": "Nanomaterials, Nanotechnology",
+      "Nanotechnology Coordinator": "Nanomedicine, Nanotechnology"
+    }
+  },
+  "National Security": {
+    "baseline_skills": "Coalitions, Counterinsurgency, Federal Government Relations, Government Liaison, Government Relations, Homeland Security, Interagency Coordination, NSA, National Security",
+    "roles": {
+      "National Security Manager": "Counterinsurgency, Homeland Security, National Security",
+      "National Security Specialist": "Homeland Security, National Security",
+      "National Security Coordinator": "Homeland Security, Interagency Coordination, National Security",
+      "National Security Analyst": "Homeland Security, National Security"
+    }
+  },
+  "Natural Language Processing": {
+    "baseline_skills": "Information Retrieval, NLTK, Natural Language Processing, Natural Language Understanding, Parsing, Semantic Technologies, Sentiment Analysis, Speech Recognition, Text Analytics, Text Mining",
+    "roles": {
+      "Natural Language Processing Specialist": "Natural Language Processing, Natural Language Understanding",
+      "Natural Language Processing Coordinator": "Natural Language Processing, Natural Language Understanding",
+      "Natural Language Processing Analyst": "Natural Language Processing, Natural Language Understanding",
+      "Natural Language Processing Manager": "Natural Language Processing, Natural Language Understanding"
+    }
+  },
+  "Navy": {
+    "baseline_skills": "Command, Diving, Docking, Marine Operations, Maritime Security, Navy, Seamanship, Ship Management, Submarines, Vessel Operations",
+    "roles": {
+      "Navy Specialist": "Maritime Security, Navy",
+      "Navy Manager": "Navy, Ship Management",
+      "Navy Coordinator": "Marine Operations, Navy, Vessel Operations",
+      "Navy Analyst": "Navy"
+    }
+  },
+  "Negotiation": {
+    "baseline_skills": "Adjudication, Collaborative Law, Conflict, Conflict Resolution, Cooperation, Mediation, Negotiation, Priority Management, Strategic Negotiations, Union Relations",
+    "roles": {
+      "Negotiation Specialist": "Mediation, Negotiation, Strategic Negotiations, Union Relations",
+      "Negotiation Manager": "Mediation, Negotiation, Priority Management, Strategic Negotiations, Union Relations",
+      "Negotiation Analyst": "Mediation, Negotiation, Strategic Negotiations, Union Relations",
+      "Negotiation Coordinator": "Mediation, Negotiation, Strategic Negotiations"
+    }
+  },
+  "Neurology": {
+    "baseline_skills": "Brain Injury, CNS disorders, Central Nervous System, Movement Disorders, Neurological Disorders, Neurology, Neuroscience, Neurosurgery, Spinal Cord Injury, Stroke Rehabilitation",
+    "roles": {
+      "Neurology Specialist": "Neurological Disorders, Neurology, Neuroscience, Neurosurgery",
+      "Neurology Coordinator": "Neurological Disorders, Neurology, Neuroscience, Neurosurgery, Spinal Cord Injury",
+      "Neurology Manager": "Neurological Disorders, Neurology, Neuroscience, Neurosurgery",
+      "Neurology Analyst": "Neurological Disorders, Neurology, Neuroscience, Neurosurgery"
+    }
+  },
+  "Nonprofit Management": {
+    "baseline_skills": "Accountability, Capacity Building, Community Development, Community Engagement, Community Outreach, Economic Development, Fundraising, Grant Writing, Non-Governmental Organizations (NGOs), Nonprofit Organizations",
+    "roles": {
+      "Nonprofit Management Manager": "Community Engagement, Non-Governmental Organizations (NGOs), Nonprofit Organizations",
+      "Nonprofit Management Specialist": "Community Engagement, Nonprofit Organizations",
+      "Nonprofit Management Coordinator": "Community Engagement, Non-Governmental Organizations (NGOs), Nonprofit Organizations",
+      "Nonprofit Management Analyst": "Community Engagement, Non-Governmental Organizations (NGOs), Nonprofit Organizations"
+    }
+  },
+  "Nuclear Engineering": {
+    "baseline_skills": "Digital X-ray, Dosimetry, Nuclear, Nuclear Energy, Nuclear Safety, Radiation Monitoring, Radiochemistry, Radiography, Reactor, UV",
+    "roles": {
+      "Nuclear Engineering Analyst": "Nuclear, Nuclear Energy, Nuclear Safety",
+      "Nuclear Engineer": "Nuclear, Nuclear Energy, Nuclear Safety",
+      "Nuclear Engineering Manager": "Nuclear, Nuclear Energy, Nuclear Safety",
+      "Nuclear Engineering Coordinator": "Nuclear, Nuclear Energy, Nuclear Safety",
+      "Nuclear Engineering Specialist": "Nuclear, Nuclear Energy, Nuclear Safety"
+    }
+  },
+  "Nuclear Physics": {
+    "baseline_skills": "Linear Accelerators, Nuclear Physics, Nuclear Power Plants, Nuclear Proliferation, Radiation, Radiation Effects, Radiation Safety, Radioactive Materials, Radioactivity, Reactor Physics",
+    "roles": {
+      "Nuclear Physics Manager": "Nuclear Physics, Nuclear Power Plants, Nuclear Proliferation, Reactor Physics",
+      "Nuclear Physics Coordinator": "Linear Accelerators, Nuclear Physics, Nuclear Power Plants, Nuclear Proliferation, Reactor Physics",
+      "Nuclear Physics Analyst": "Nuclear Physics, Nuclear Power Plants, Nuclear Proliferation, Reactor Physics",
+      "Nuclear Physics Specialist": "Nuclear Physics, Nuclear Power Plants, Nuclear Proliferation, Reactor Physics"
+    }
+  },
+  "Nursing": {
+    "baseline_skills": "Acute Care, Advanced Cardiac Life Support (ACLS), Basic Life Support (BLS), Critical Care Nursing, Inpatient Care, Nursing, Patient Advocacy, Patient Education, Vital Signs, Working with Physicians",
+    "roles": {
+      "Nursing Specialist": "Critical Care Nursing, Nursing, Working with Physicians",
+      "Nursing Coordinator": "Critical Care Nursing, Nursing",
+      "Nursing Analyst": "Critical Care Nursing, Nursing, Working with Physicians",
+      "Nursing Manager": "Critical Care Nursing, Nursing"
+    }
+  },
+  "Obstetrics": {
+    "baseline_skills": "Fertility, Gynecology, Infertility, Maternity, Midwifery, Obstetrics, Obstetrics and Gynecology, Pregnancy, Prenatal Care, Women\u2019s Health",
+    "roles": {
+      "Obstetrics Coordinator": "Obstetrics, Obstetrics and Gynecology",
+      "Obstetrics Analyst": "Obstetrics, Obstetrics and Gynecology, Women\u2019s Health",
+      "Obstetrics Specialist": "Obstetrics, Obstetrics and Gynecology, Women\u2019s Health",
+      "Obstetrics Manager": "Obstetrics, Obstetrics and Gynecology"
+    }
+  },
+  "Ocean Transportation": {
+    "baseline_skills": "Boat, Container Shipping, ISM Code, International Shipping, Maritime, Maritime Operations, Navigation, Ocean Transportation, Ports, Sailing",
+    "roles": {
+      "Ocean Transportation Analyst": "Ocean Transportation",
+      "Ocean Transportation Coordinator": "Ocean Transportation",
+      "Ocean Transportation Manager": "Ocean Transportation",
+      "Ocean Transportation Specialist": "Container Shipping, International Shipping, Ocean Transportation"
+    }
+  },
+  "Oceanography": {
+    "baseline_skills": "Climate, Marine Biology, Marine Conservation, Marine Survey, Meteorology, Oceanography, Physical Oceanography, Scuba Diving, Underwater",
+    "roles": {
+      "Oceanography Coordinator": "Oceanography, Physical Oceanography",
+      "Oceanography Manager": "Oceanography, Physical Oceanography",
+      "Oceanography Analyst": "Oceanography, Physical Oceanography",
+      "Oceanography Specialist": "Oceanography, Physical Oceanography"
+    }
+  },
+  "Oil & Gas": {
+    "baseline_skills": "Gas, Natural Gas, Oil & Gas, Oil & Gas Industry, Onshore Operations, Petrochemical, Petroleum, Piping, Piping and Instrumentation Drawing (P&ID), Refinery Operations",
+    "roles": {
+      "Oil & Gas Analyst": "Gas, Natural Gas, Oil & Gas, Oil & Gas Industry",
+      "Oil & Gas Manager": "Gas, Natural Gas, Oil & Gas, Oil & Gas Industry",
+      "Oil & Gas Coordinator": "Gas, Natural Gas, Oil & Gas, Oil & Gas Industry",
+      "Oil & Gas Specialist": "Gas, Natural Gas, Oil & Gas, Oil & Gas Industry"
+    }
+  },
+  "Oncology": {
+    "baseline_skills": "Breast Cancer, Cancer, Cancer Research, Cancer Screening, Cancer Treatment, Chemotherapy, Gynecologic Oncology, Molecular Oncology, Oncology, Oncology Clinical Research",
+    "roles": {
+      "Oncology Analyst": "Gynecologic Oncology, Molecular Oncology, Oncology, Oncology Clinical Research",
+      "Oncology Manager": "Gynecologic Oncology, Molecular Oncology, Oncology, Oncology Clinical Research",
+      "Oncology Coordinator": "Gynecologic Oncology, Molecular Oncology, Oncology, Oncology Clinical Research",
+      "Oncology Specialist": "Gynecologic Oncology, Molecular Oncology, Oncology, Oncology Clinical Research"
+    }
+  },
+  "Operational Efficiency": {
+    "baseline_skills": "Cost Effective, Demand Planning, Inventory Planning, KPI Reports, Key Performance Indicators, Operational Efficiency, Operational Excellence, Operational Planning, Operational Strategy, Supply Chain Optimization",
+    "roles": {
+      "Operational Efficiency Specialist": "Operational Efficiency, Operational Excellence, Operational Planning, Operational Strategy",
+      "Operational Efficiency Manager": "Operational Efficiency, Operational Excellence, Operational Planning, Operational Strategy",
+      "Operational Efficiency Analyst": "Operational Efficiency, Operational Excellence, Operational Planning, Operational Strategy",
+      "Operational Efficiency Coordinator": "Operational Efficiency, Operational Excellence, Operational Planning, Operational Strategy"
+    }
+  },
+  "Ophthalmology": {
+    "baseline_skills": "Contact Lenses, Dry Eye, Eye Exams, Eyewear, Glaucoma, LASIK, Lenses, Ocular Disease, Ophthalmology, Optometry",
+    "roles": {
+      "Ophthalmology Manager": "Ophthalmology",
+      "Ophthalmology Analyst": "Ophthalmology",
+      "Ophthalmology Specialist": "Ophthalmology",
+      "Ophthalmology Coordinator": "Ophthalmology"
+    }
+  },
+  "Oral Communication": {
+    "baseline_skills": "Communication, Interpersonal Communication, Oral Communication, Presentation Development, Presentation Skills, Presentations, Presenter, Professional Communication, Public Speaking, Technical Presentations",
+    "roles": {
+      "Oral Communication Manager": "Communication, Interpersonal Communication, Oral Communication, Professional Communication",
+      "Oral Communication Specialist": "Communication, Interpersonal Communication, Oral Communication, Presentation Development, Presentation Skills, Professional Communication",
+      "Oral Communication Coordinator": "Communication, Interpersonal Communication, Oral Communication, Presentation Development, Professional Communication",
+      "Oral Communication Analyst": "Communication, Interpersonal Communication, Oral Communication, Presentation Skills, Presentations, Professional Communication, Technical Presentations"
+    }
+  },
+  "Oral Comprehension": {
+    "baseline_skills": "Assistive Listening Devices, Educational Assessment, Learning Disabilities, Listen, Oral Comprehension",
+    "roles": {
+      "Oral Comprehension Manager": "Oral Comprehension",
+      "Oral Comprehension Coordinator": "Oral Comprehension",
+      "Oral Comprehension Analyst": "Oral Comprehension",
+      "Oral Comprehension Specialist": "Oral Comprehension"
+    }
+  },
+  "Organic Chemistry": {
+    "baseline_skills": "Analytical Chemistry, Biochemistry, Chromatography, ELISA, Good Laboratory Practice (GLP), High-Performance Liquid Chromatography (HPLC), Organic Chemistry, Protein Chemistry, Protein Purification, UV/Vis Spectroscopy",
+    "roles": {
+      "Organic Chemistry Manager": "Analytical Chemistry, Biochemistry, Organic Chemistry, Protein Chemistry",
+      "Organic Chemistry Specialist": "Analytical Chemistry, Biochemistry, High-Performance Liquid Chromatography (HPLC), Organic Chemistry, Protein Chemistry",
+      "Organic Chemistry Analyst": "Analytical Chemistry, Biochemistry, Organic Chemistry, Protein Chemistry",
+      "Organic Chemistry Coordinator": "Analytical Chemistry, Biochemistry, Organic Chemistry, Protein Chemistry"
+    }
+  },
+  "Orthopedic Surgery": {
+    "baseline_skills": "Chronic Pain, Knee, Musculoskeletal System, Neuromuscular Therapy, Orthopedic Surgery, Orthotics, Outpatient Orthopedics, Podiatry, Spine, Sports Injuries",
+    "roles": {
+      "Orthopedic Surgery Analyst": "Orthopedic Surgery, Orthotics, Outpatient Orthopedics",
+      "Orthopedic Surgery Coordinator": "Orthopedic Surgery, Orthotics, Outpatient Orthopedics",
+      "Orthopedic Surgery Manager": "Orthopedic Surgery, Orthotics, Outpatient Orthopedics",
+      "Orthopedic Surgery Specialist": "Orthopedic Surgery, Orthotics, Outpatient Orthopedics"
+    }
+  },
+  "Paediatrics": {
+    "baseline_skills": "Adolescent Health, Child Health, Neonatal Intensive Care, Neonatal Nursing, Neonatology, Paediatrics, Pediatric Surgery",
+    "roles": {
+      "Paediatrics Manager": "Paediatrics, Pediatric Surgery",
+      "Paediatrics Analyst": "Paediatrics, Pediatric Surgery",
+      "Paediatrics Specialist": "Adolescent Health, Paediatrics, Pediatric Surgery",
+      "Paediatrics Coordinator": "Paediatrics, Pediatric Surgery"
+    }
+  },
+  "Painting": {
+    "baseline_skills": "Acrylic, Acrylic Painting, Art Exhibitions, Murals, Oil Painting, Paint, Painting, Restoration, Visual Arts, Watercolor",
+    "roles": {
+      "Painting Manager": "Acrylic Painting, Oil Painting, Paint, Painting",
+      "Painting Coordinator": "Acrylic Painting, Oil Painting, Painting",
+      "Painting Analyst": "Acrylic Painting, Oil Painting, Paint, Painting",
+      "Painting Specialist": "Acrylic Painting, Oil Painting, Paint, Painting"
+    }
+  },
+  "Partner Development": {
+    "baseline_skills": "Business Alliances, Channel Programs, Partner Development, Partner Management, Partner Programs, Partner Support, Partnership-building, Partnerships, Strategic Alliances",
+    "roles": {
+      "Partner Development Specialist": "Partner Development, Partner Management, Partner Programs, Partner Support, Partnerships",
+      "Partner Development Manager": "Partner Development, Partner Management, Partner Programs, Partner Support, Partnership-building, Partnerships",
+      "Partner Development Analyst": "Partner Development, Partner Management, Partner Programs, Partner Support, Partnerships",
+      "Partner Development Coordinator": "Partner Development, Partner Management, Partner Programs, Partner Support, Partnership-building"
+    }
+  },
+  "Pathology": {
+    "baseline_skills": "Anatomic Pathology, Biomarker Discovery, Biomarkers, Cancer Biology, Flow Cytometry, Laboratory Medicine, Medical Microbiology, Pathology, Toxicology, Veterinary Pathology",
+    "roles": {
+      "Pathology Manager": "Anatomic Pathology, Laboratory Medicine, Pathology, Toxicology, Veterinary Pathology",
+      "Pathology Specialist": "Anatomic Pathology, Laboratory Medicine, Pathology, Veterinary Pathology",
+      "Pathology Analyst": "Anatomic Pathology, Pathology, Toxicology, Veterinary Pathology",
+      "Pathology Coordinator": "Anatomic Pathology, Pathology, Veterinary Pathology"
+    }
+  },
+  "Payroll Services": {
+    "baseline_skills": "ADP Payroll, Kronos, Kronos Timekeeping, Payroll, Payroll Administration, Payroll Analysis, Payroll Processing, Payroll Services, Payroll Taxes, Time & Attendance",
+    "roles": {
+      "Payroll Services Analyst": "ADP Payroll, Payroll, Payroll Administration, Payroll Analysis, Payroll Processing, Payroll Services, Payroll Taxes",
+      "Payroll Services Specialist": "ADP Payroll, Payroll, Payroll Administration, Payroll Analysis, Payroll Processing, Payroll Services, Payroll Taxes",
+      "Payroll Services Coordinator": "ADP Payroll, Payroll, Payroll Administration, Payroll Analysis, Payroll Processing, Payroll Services, Payroll Taxes",
+      "Payroll Services Manager": "ADP Payroll, Payroll, Payroll Administration, Payroll Analysis, Payroll Processing, Payroll Services, Payroll Taxes"
+    }
+  },
+  "People Management": {
+    "baseline_skills": "Conflict Management, Distributed Team Management, Organizational Structure, People Management, Personnel Management, Staff Training, Supervisory Skills, Team Motivation, Teamwork, Workforce Management",
+    "roles": {
+      "People Management Analyst": "Conflict Management, Distributed Team Management, Organizational Structure, People Management, Personnel Management, Workforce Management",
+      "People Management Coordinator": "Conflict Management, Distributed Team Management, People Management, Personnel Management, Workforce Management",
+      "People Management Manager": "Conflict Management, Distributed Team Management, People Management, Personnel Management, Workforce Management",
+      "People Management Specialist": "Conflict Management, Distributed Team Management, People Management, Personnel Management, Workforce Management"
+    }
+  },
+  "Personal Coaching": {
+    "baseline_skills": "Business Coaching, Career Counseling, Coaching, Job Coaching, Life Coaching, Lifestyle Coaching, Mentoring, Motivational Speaking, Personal Development, Personal Training",
+    "roles": {
+      "Personal Coaching Manager": "Business Coaching, Coaching, Job Coaching, Life Coaching, Lifestyle Coaching, Personal Development, Personal Training",
+      "Personal Coaching Specialist": "Business Coaching, Coaching, Job Coaching, Life Coaching, Lifestyle Coaching, Personal Development, Personal Training",
+      "Personal Coaching Coordinator": "Business Coaching, Coaching, Job Coaching, Life Coaching, Lifestyle Coaching, Personal Development, Personal Training",
+      "Personal Coaching Analyst": "Business Coaching, Coaching, Job Coaching, Life Coaching, Lifestyle Coaching, Personal Development, Personal Training"
+    }
+  },
+  "Pharmaceutical Manufacturing": {
+    "baseline_skills": "Biotechnology, CRO Management, Clinical Development, GMP, Good Clinical Practice (GCP), Laboratory Skills, Pharmaceutical Industry, Standard Operating Procedure (SOP), Technology Transfer, U.S. Food and Drug Administration (FDA)",
+    "roles": {
+      "Pharmaceutical Manufacturing Specialist": "Pharmaceutical Industry",
+      "Pharmaceutical Manufacturing Analyst": "Pharmaceutical Industry",
+      "Pharmaceutical Manufacturing Manager": "Pharmaceutical Industry",
+      "Pharmaceutical Manufacturing Coordinator": "Pharmaceutical Industry"
+    }
+  },
+  "Pharmaceutics": {
+    "baseline_skills": "Biopharmaceuticals, Clinical Research, Clinical Trials, Market Access, Pharmaceutical Sales, Pharmaceutics, Pharmacology, Pharmacovigilance, Pharmacy, U.S. Title 21 CFR Part 11 Regulation",
+    "roles": {
+      "Pharmaceutics Coordinator": "Biopharmaceuticals, Pharmaceutical Sales, Pharmaceutics, Pharmacology, Pharmacy",
+      "Pharmaceutics Analyst": "Biopharmaceuticals, Market Access, Pharmaceutical Sales, Pharmaceutics, Pharmacology, Pharmacovigilance, Pharmacy",
+      "Pharmaceutics Manager": "Biopharmaceuticals, Pharmaceutical Sales, Pharmaceutics, Pharmacology, Pharmacovigilance, Pharmacy",
+      "Pharmaceutics Specialist": "Biopharmaceuticals, Clinical Trials, Pharmaceutical Sales, Pharmaceutics, Pharmacology, Pharmacy"
+    }
+  },
+  "Photography": {
+    "baseline_skills": "Digital Photography, Event Photography, Fine Art Photography, Image Editing, Lightroom, Photography, Photojournalism, Portrait Photography, Travel Photography, Wedding Photography",
+    "roles": {
+      "Photography Manager": "Digital Photography, Event Photography, Fine Art Photography, Photography, Photojournalism, Portrait Photography, Travel Photography, Wedding Photography",
+      "Photography Coordinator": "Digital Photography, Event Photography, Fine Art Photography, Photography, Photojournalism, Portrait Photography, Travel Photography, Wedding Photography",
+      "Photography Specialist": "Digital Photography, Event Photography, Fine Art Photography, Photography, Photojournalism, Portrait Photography, Travel Photography, Wedding Photography",
+      "Photography Analyst": "Digital Photography, Event Photography, Fine Art Photography, Photography, Photojournalism, Portrait Photography, Travel Photography, Wedding Photography"
+    }
+  },
+  "Physical Medicine and Rehabilitation": {
+    "baseline_skills": "Exercise Prescription, Fitness Training, Functional Training, Injury Prevention, Manual Therapy, Physical Therapy, Rehabilitation, Sports Medicine, Strength & Conditioning, Weight Training",
+    "roles": {
+      "Physical Medicine and Rehabilitation Manager": "Physical Therapy, Rehabilitation, Sports Medicine",
+      "Physical Medicine and Rehabilitation Specialist": "Physical Therapy, Rehabilitation, Sports Medicine",
+      "Physical Medicine and Rehabilitation Coordinator": "Physical Therapy, Rehabilitation, Sports Medicine",
+      "Physical Medicine and Rehabilitation Analyst": "Physical Therapy, Rehabilitation, Sports Medicine"
+    }
+  },
+  "Physical Security": {
+    "baseline_skills": "Closed-Circuit Television (CCTV), Corporate Security, Executive Protection, Firefighting, Industrial Safety, Physical Security, Security Management, Security Operations, Surveillance, Workplace Safety",
+    "roles": {
+      "Physical Security Analyst": "Corporate Security, Industrial Safety, Physical Security, Security Management, Security Operations",
+      "Physical Security Manager": "Corporate Security, Industrial Safety, Physical Security, Security Management, Security Operations",
+      "Physical Security Coordinator": "Corporate Security, Physical Security, Security Management, Security Operations",
+      "Physical Security Specialist": "Corporate Security, Physical Security, Security Management, Security Operations"
+    }
+  },
+  "Physics": {
+    "baseline_skills": "Astronomy, Biophysics, Dynamics, Experimental Physics, Heat Transfer, NMR Spectroscopy, Nuclear Magnetic Resonance (NMR), Optics, Photonics, Thermodynamics",
+    "roles": {
+      "Physics Analyst": "Biophysics, Experimental Physics, Photonics",
+      "Physics Coordinator": "Biophysics, Experimental Physics",
+      "Physics Manager": "Biophysics, Experimental Physics, Heat Transfer, Photonics",
+      "Physics Specialist": "Biophysics, Experimental Physics"
+    }
+  },
+  "Physiology": {
+    "baseline_skills": "Animal Models, Assay Development, Cell Biology, Cell Culture, Confocal Microscopy, In Vitro, In Vivo, Microscopy, Tissue Culture, Western Blotting",
+    "roles": {
+      "Physiology Coordinator": "",
+      "Physiology Analyst": "",
+      "Physiology Specialist": "",
+      "Physiology Manager": ""
+    }
+  },
+  "Plastics": {
+    "baseline_skills": "Blow Molding, Extrusion, Injection Molding, Mold, Plastic Extrusion, Plastics, Plastics Engineering, Plastics Industry, Thermoforming, Thermoplastics",
+    "roles": {
+      "Plastics Analyst": "Plastic Extrusion, Plastics, Plastics Engineering, Plastics Industry, Thermoplastics",
+      "Plastics": "Plastic Extrusion, Plastics, Plastics Engineering, Plastics Industry, Thermoplastics",
+      "Plastics Specialist": "Plastic Extrusion, Plastics, Plastics Engineering, Plastics Industry, Thermoplastics",
+      "Plastics Manager": "Plastic Extrusion, Plastics, Plastics Engineering, Plastics Industry, Thermoplastics",
+      "Plastics Coordinator": "Plastic Extrusion, Plastics, Plastics Engineering, Plastics Industry, Thermoplastics"
+    }
+  },
+  "Politics": {
+    "baseline_skills": "Foreign Affairs, Foreign Policy, Humanitarian, International Development, International Relations, Political Campaigns, Political Consulting, Politics, Public Affairs, State Politics",
+    "roles": {
+      "Politics Analyst": "Political Campaigns, Political Consulting, Politics, Public Affairs, State Politics",
+      "Politics Specialist": "Political Campaigns, Political Consulting, Politics, State Politics",
+      "Politics Manager": "Political Campaigns, Political Consulting, Politics, State Politics",
+      "Politics Coordinator": "Political Campaigns, Political Consulting, Politics, State Politics"
+    }
+  },
+  "Power Systems": {
+    "baseline_skills": "Energy Audits, Energy Efficiency, Photovoltaics, Power Distribution, Power Electronics, Power Generation, Power Plants, Power Systems, Solar Energy, Wind Energy",
+    "roles": {
+      "Power Systems Specialist": "Power Distribution, Power Electronics, Power Generation, Power Plants, Power Systems",
+      "Power Systems Analyst": "Power Distribution, Power Electronics, Power Generation, Power Plants, Power Systems",
+      "Power Systems Coordinator": "Power Distribution, Power Electronics, Power Generation, Power Plants, Power Systems",
+      "Power Systems Manager": "Power Distribution, Power Electronics, Power Generation, Power Plants, Power Systems"
+    }
+  },
+  "Printing": {
+    "baseline_skills": "3D Printing, Color Management, Digital Printing, Managed Print Services, Offset Printing, Pre-press, Print Management, Screen Printing, Variable Data Printing, Wide Format Printing",
+    "roles": {
+      "Printing Manager": "3D Printing, Color Management, Digital Printing, Offset Printing, Print Management, Screen Printing, Variable Data Printing, Wide Format Printing",
+      "Printing Analyst": "3D Printing, Digital Printing, Offset Printing, Print Management, Screen Printing, Variable Data Printing, Wide Format Printing",
+      "Printing Specialist": "3D Printing, Digital Printing, Managed Print Services, Offset Printing, Print Management, Screen Printing, Variable Data Printing, Wide Format Printing",
+      "Printing Coordinator": "3D Printing, Digital Printing, Offset Printing, Print Management, Screen Printing, Variable Data Printing, Wide Format Printing"
+    }
+  },
+  "Problem Solving": {
+    "baseline_skills": "Analytic Problem Solving, Collaborative Problem Solving, Creative Problem Solving, Decision-Making, Ethics, Problem Analysis, Problem Solving, Root Cause Problem Solving, Solution Focused, Team Problem Solving",
+    "roles": {
+      "Problem Solving Coordinator": "Analytic Problem Solving, Collaborative Problem Solving, Creative Problem Solving, Problem Analysis, Problem Solving, Root Cause Problem Solving, Team Problem Solving",
+      "Problem Solving Manager": "Analytic Problem Solving, Collaborative Problem Solving, Creative Problem Solving, Problem Analysis, Problem Solving, Root Cause Problem Solving, Team Problem Solving",
+      "Problem Solving Specialist": "Analytic Problem Solving, Collaborative Problem Solving, Creative Problem Solving, Problem Analysis, Problem Solving, Root Cause Problem Solving, Team Problem Solving",
+      "Problem Solving Analyst": "Analytic Problem Solving, Collaborative Problem Solving, Creative Problem Solving, Problem Analysis, Problem Solving, Root Cause Problem Solving, Team Problem Solving"
+    }
+  },
+  "Procurement": {
+    "baseline_skills": "Contract Management, Contract Negotiation, Global Sourcing, Import, Logistics Management, Procurement, Strategic Sourcing, Subcontracting, Supply Management, Transportation Management",
+    "roles": {
+      "Procurement Analyst": "Procurement",
+      "Procurement Specialist": "Procurement",
+      "Procurement Coordinator": "Contract Negotiation, Procurement",
+      "Procurement Manager": "Contract Management, Logistics Management, Procurement, Supply Management, Transportation Management"
+    }
+  },
+  "Product Development": {
+    "baseline_skills": "Commercialization, Innovation Development, Innovation Management, Mechanical Product Design, Product Design, Product Development, Product Engineering, Product Innovation, Product Launch, Product Lifecycle Management",
+    "roles": {
+      "Product Development Manager": "Innovation Development, Innovation Management, Mechanical Product Design, Product Design, Product Development, Product Engineering, Product Innovation, Product Launch, Product Lifecycle Management",
+      "Product Development Specialist": "Innovation Development, Mechanical Product Design, Product Design, Product Development, Product Engineering, Product Innovation, Product Launch, Product Lifecycle Management",
+      "Product Development Analyst": "Innovation Development, Mechanical Product Design, Product Design, Product Development, Product Engineering, Product Innovation, Product Launch, Product Lifecycle Management",
+      "Product Development": "Innovation Development, Mechanical Product Design, Product Design, Product Development, Product Engineering, Product Innovation, Product Launch, Product Lifecycle Management",
+      "Product Development Coordinator": "Innovation Development, Mechanical Product Design, Product Design, Product Development, Product Engineering, Product Innovation, Product Launch, Product Lifecycle Management"
+    }
+  },
+  "Product Marketing": {
+    "baseline_skills": "Brand Development, Brand Strategy, CRM Tools, Campaign Management, Competitive Analysis, Content Marketing, Customer Insight, Digital Marketing, Email Marketing, Go-to-market Strategy, Google Analytics, Integrated Marketing, Market Planning, Market Research, Marketing Management, Marketing Strategy, Product Marketing, SEM, SEO, Social Media",
+    "roles": {
+      "Product Marketing Manager": "Brand Strategy, CRM Tools, Campaign Management, Content Marketing, Digital Marketing, Email Marketing, Google Analytics, Integrated Marketing, Market Planning, Market Research, Marketing Management, Marketing Strategy, Product Marketing, SEM, SEO, Social Media",
+      "Product Marketing Specialist": "Brand Strategy, CRM Tools, Campaign Management, Content Marketing, Digital Marketing, Email Marketing, Go-to-market Strategy, Google Analytics, Integrated Marketing, Market Planning, Market Research, Marketing Management, Marketing Strategy, Product Marketing, SEM, SEO, Social Media",
+      "Product Marketer": "Brand Strategy, CRM Tools, Campaign Management, Content Marketing, Digital Marketing, Email Marketing, Go-to-market Strategy, Google Analytics, Integrated Marketing, Market Research, Marketing Strategy, Product Marketing, SEM, SEO, Social Media",
+      "Product Marketing Coordinator": "Brand Strategy, CRM Tools, Campaign Management, Content Marketing, Digital Marketing, Email Marketing, Go-to-market Strategy, Google Analytics, Integrated Marketing, Market Planning, Market Research, Marketing Management, Marketing Strategy, Product Marketing, SEM, SEO, Social Media",
+      "Product Marketing Analyst": "Brand Strategy, CRM Tools, Campaign Management, Competitive Analysis, Content Marketing, Digital Marketing, Email Marketing, Go-to-market Strategy, Google Analytics, Integrated Marketing, Market Planning, Market Research, Marketing Management, Marketing Strategy, Product Marketing, SEM, SEO, Social Media"
+    }
+  },
+  "Product Testing": {
+    "baseline_skills": "Corrective and Preventive Action (CAPA), Nondestructive Testing (NDT), QA Engineering, Quality Auditing, Quality Control, Testing, Ultrasonic Testing, Validation, Verification and Validation (V&V), Welding Inspection",
+    "roles": {
+      "Product Testing Analyst": "Nondestructive Testing (NDT), Testing, Ultrasonic Testing",
+      "Product Testing Manager": "Nondestructive Testing (NDT), Testing, Ultrasonic Testing",
+      "Product Testing": "Nondestructive Testing (NDT), Testing, Ultrasonic Testing",
+      "Product Testing Coordinator": "Nondestructive Testing (NDT), Testing, Ultrasonic Testing",
+      "Product Testing Specialist": "Nondestructive Testing (NDT), Testing, Ultrasonic Testing, Welding Inspection"
+    }
+  },
+  "Professional Cleaning": {
+    "baseline_skills": "Carpet Cleaning, Commercial Cleaning, Data Cleaning, Floor Cleaning, Green Cleaning, Home Cleaning, Industrial Cleaning, Professional Cleaning, Upholstery Cleaning, Window Cleaning, house cleaning",
+    "roles": {
+      "Professional Cleaning Specialist": "Carpet Cleaning, Commercial Cleaning, Data Cleaning, Floor Cleaning, Green Cleaning, Home Cleaning, Industrial Cleaning, Professional Cleaning, Upholstery Cleaning, Window Cleaning, house cleaning",
+      "Professional Cleaning Coordinator": "Carpet Cleaning, Commercial Cleaning, Data Cleaning, Floor Cleaning, Green Cleaning, Home Cleaning, Industrial Cleaning, Professional Cleaning, Upholstery Cleaning, Window Cleaning, house cleaning",
+      "Professional Cleaning Analyst": "Carpet Cleaning, Commercial Cleaning, Data Cleaning, Floor Cleaning, Green Cleaning, Home Cleaning, Industrial Cleaning, Professional Cleaning, Upholstery Cleaning, Window Cleaning, house cleaning",
+      "Professional Cleaning Manager": "Carpet Cleaning, Commercial Cleaning, Data Cleaning, Floor Cleaning, Green Cleaning, Home Cleaning, Industrial Cleaning, Professional Cleaning, Upholstery Cleaning, Window Cleaning, house cleaning"
+    }
+  },
+  "Professional Sports": {
+    "baseline_skills": "Athletic Training, Athletics, Basketball, Football, Golf, Martial Arts, Soccer, Sports Management, Swimming, Tennis",
+    "roles": {
+      "Professional Sports Analyst": "Martial Arts, Sports Management",
+      "Professional Sports Specialist": "Sports Management",
+      "Professional Sports Coordinator": "Sports Management",
+      "Professional Sports Manager": "Martial Arts, Sports Management"
+    }
+  },
+  "Project Management": {
+    "baseline_skills": "Project Planning, Agile, Scrum, Risk Management, Stakeholder Management, JIRA, Project Scheduling, Budget Management, MS Project, Kanban, Waterfall, Gantt Charts",
+    "roles": {
+      "Project Manager": "Project Planning, Agile, Scrum, Risk Management, Stakeholder Management",
+      "Program Manager": "Program Planning, Resource Allocation, Budget Management, JIRA, MS Project",
+      "Project Coordinator": "Project Scheduling, Gantt Charts, Reporting, Stakeholder Communication",
+      "Agile Project Manager": "Scrum, Kanban, Agile Methodologies, Burndown Charts"
+    }
+  },
+  "Property Law": {
+    "baseline_skills": "Estate Law, Evictions, Land Use Law, Low-Income Housing Tax Credit (LIHTC), Ownership, Personal Property, Property Damage, Property Law, Property Rights, Trust Deeds",
+    "roles": {
+      "Property Law Analyst": "Estate Law, Land Use Law, Personal Property, Property Damage, Property Law, Property Rights",
+      "Property Lawyer": "Estate Law, Personal Property, Property Damage, Property Law, Property Rights",
+      "Property Law Manager": "Estate Law, Land Use Law, Personal Property, Property Damage, Property Law, Property Rights",
+      "Property Law Coordinator": "Estate Law, Land Use Law, Personal Property, Property Damage, Property Law, Property Rights",
+      "Property Law Specialist": "Estate Law, Land Use Law, Personal Property, Property Damage, Property Law, Property Rights"
+    }
+  },
+  "Property Management": {
+    "baseline_skills": "Affordable Housing, Apartments, Dispositions, Investment Properties, Lease Negotiations, Property Management, Shopping Centers, Social Housing, Working with Tenants, Yardi",
+    "roles": {
+      "Property Management Coordinator": "Property Management",
+      "Property Management Specialist": "Property Management",
+      "Property Management Manager": "Property Management",
+      "Property Management Analyst": "Apartments, Property Management"
+    }
+  },
+  "Psychiatry": {
+    "baseline_skills": "Addiction Psychiatry, Behavioral Disorders, Child Psychiatry, Deconstruction, Dual Diagnosis, Forensic Psychiatry, Geriatric Psychiatry, Mental Health Treatment, Psychiatrists, Psychiatry",
+    "roles": {
+      "Psychiatry Manager": "Addiction Psychiatry, Child Psychiatry, Forensic Psychiatry, Geriatric Psychiatry, Psychiatrists, Psychiatry",
+      "Psychiatry Specialist": "Addiction Psychiatry, Child Psychiatry, Forensic Psychiatry, Geriatric Psychiatry, Psychiatrists, Psychiatry",
+      "Psychiatry Analyst": "Addiction Psychiatry, Child Psychiatry, Forensic Psychiatry, Geriatric Psychiatry, Psychiatrists, Psychiatry",
+      "Psychiatry Coordinator": "Addiction Psychiatry, Child Psychiatry, Forensic Psychiatry, Geriatric Psychiatry, Psychiatrists, Psychiatry"
+    }
+  },
+  "Psychology": {
+    "baseline_skills": "Cognitive Behavioral Therapy (CBT), Counseling Psychology, Elder Care, Family Therapy, Interventions, Mindfulness, Psychological Assessment, Psychotherapy, Stress Management, Working with Adolescents",
+    "roles": {
+      "Psychology Analyst": "Counseling Psychology, Psychological Assessment, Psychotherapy",
+      "Psychology Manager": "Counseling Psychology, Psychological Assessment, Psychotherapy, Stress Management",
+      "Psychology Coordinator": "Counseling Psychology, Psychological Assessment",
+      "Psychology Specialist": "Counseling Psychology, Psychological Assessment, Psychotherapy"
+    }
+  },
+  "Public Health": {
+    "baseline_skills": "Community Health, Epidemiology, Global Health, Health Economics, Health Education, Health Policy, Health Promotion, Medical Affairs, Prevention, Public Health",
+    "roles": {
+      "Public Health Manager": "Community Health, Global Health, Health Economics, Health Education, Health Policy, Health Promotion, Medical Affairs, Public Health",
+      "Public Health Specialist": "Community Health, Global Health, Health Economics, Health Education, Health Policy, Health Promotion, Public Health",
+      "Public Health Analyst": "Community Health, Global Health, Health Economics, Health Education, Health Policy, Health Promotion, Medical Affairs, Public Health",
+      "Public Health Coordinator": "Community Health, Global Health, Health Economics, Health Education, Health Policy, Health Promotion, Public Health"
+    }
+  },
+  "Public Policy": {
+    "baseline_skills": "Federal Government, Government, Government Contracting, Grassroots Organizing, Local Government, Policy Analysis, Private Sector, Public Policy, Public Sector, Public Transport",
+    "roles": {
+      "Public Policy Manager": "Policy Analysis, Public Policy, Public Sector, Public Transport",
+      "Public Policy Specialist": "Policy Analysis, Public Policy, Public Sector, Public Transport",
+      "Public Policy Coordinator": "Policy Analysis, Public Policy, Public Sector, Public Transport",
+      "Public Policy Analyst": "Policy Analysis, Public Policy, Public Sector, Public Transport"
+    }
+  },
+  "Public Safety": {
+    "baseline_skills": "Criminal Justice, Crisis Management, Emergency Management, Investigation, Law Enforcement, Occupational Health, Private Investigations, Public Safety, Risk Assessment, Safety Management Systems",
+    "roles": {
+      "Public Safety Coordinator": "Public Safety, Safety Management Systems",
+      "Public Safety Specialist": "Public Safety, Safety Management Systems",
+      "Public Safety Manager": "Crisis Management, Emergency Management, Public Safety, Safety Management Systems",
+      "Public Safety Analyst": "Public Safety, Safety Management Systems"
+    }
+  },
+  "Radio Production": {
+    "baseline_skills": "Adobe Audition, Audio Editing, Audio Mixing, Audio Post Production, Radio, Radio Advertising, Radio Broadcasting, Radio Host, Radio Production, Radio Promotions",
+    "roles": {
+      "Radio Production Specialist": "Audio Editing, Audio Post Production, Radio, Radio Advertising, Radio Broadcasting, Radio Host, Radio Production, Radio Promotions",
+      "Radio Production Coordinator": "Audio Editing, Audio Post Production, Radio, Radio Advertising, Radio Broadcasting, Radio Host, Radio Production, Radio Promotions",
+      "Radio Production Manager": "Audio Editing, Audio Mixing, Audio Post Production, Radio, Radio Advertising, Radio Broadcasting, Radio Host, Radio Production, Radio Promotions",
+      "Radio Production Analyst": "Audio Editing, Audio Post Production, Radio, Radio Advertising, Radio Broadcasting, Radio Host, Radio Production, Radio Promotions"
+    }
+  },
+  "Radiology": {
+    "baseline_skills": "Computed Tomography, DICOM, Digital Imaging, MRI, Medical Diagnostics, Medical Imaging, Medical Ultrasound, Picture Archiving and Communication System (PACS), Radiology, X-ray",
+    "roles": {
+      "Radiology Coordinator": "Radiology",
+      "Radiology Analyst": "Radiology",
+      "Radiology Manager": "Digital Imaging, Medical Imaging, Radiology",
+      "Radiology Specialist": "Medical Diagnostics, Radiology"
+    }
+  },
+  "Reading Comprehension": {
+    "baseline_skills": "Guided Reading, Reading Comprehension, Reading Intervention",
+    "roles": {
+      "Reading Comprehension Coordinator": "Guided Reading, Reading Comprehension, Reading Intervention",
+      "Reading Comprehension Analyst": "Guided Reading, Reading Comprehension, Reading Intervention",
+      "Reading Comprehension Manager": "Guided Reading, Reading Comprehension, Reading Intervention",
+      "Reading Comprehension Specialist": "Guided Reading, Reading Comprehension, Reading Intervention"
+    }
+  },
+  "Real Estate": {
+    "baseline_skills": "Buyer Representation, Commercial Real Estate, Mortgage Lending, Real Estate Development, Real Estate Transactions, Renovation, Residential Homes, Sellers, Short Sales, Working with First-Time Home Buyers",
+    "roles": {
+      "Real Estate Coordinator": "Buyer Representation, Commercial Real Estate, Real Estate Development, Real Estate Transactions",
+      "Real Estate Specialist": "Commercial Real Estate, Real Estate Development, Real Estate Transactions",
+      "Real Estate Manager": "Buyer Representation, Commercial Real Estate, Real Estate Development, Real Estate Transactions",
+      "Real Estate Analyst": "Buyer Representation, Commercial Real Estate, Real Estate Development, Real Estate Transactions"
+    }
+  },
+  "Recreation": {
+    "baseline_skills": "Camp, Camping, Casino Gaming, Golf Clubs, Mountaineering, National Parks, Outdoor Recreation, Theme Parks, Therapeutic Recreation",
+    "roles": {
+      "Recreation Specialist": "National Parks, Outdoor Recreation, Therapeutic Recreation",
+      "Recreation Coordinator": "Outdoor Recreation, Therapeutic Recreation",
+      "Recreation Analyst": "National Parks, Outdoor Recreation, Therapeutic Recreation",
+      "Recreation Manager": "National Parks, Outdoor Recreation, Therapeutic Recreation"
+    }
+  },
+  "Recruiting": {
+    "baseline_skills": "Applicant Tracking Systems, Employee Benefits Design, Executive Search, Hiring, Interviewing, Onboarding, Recruiting, Screening, Sourcing, Technical Recruiting",
+    "roles": {
+      "Recruiting Coordinator": "Recruiting, Technical Recruiting",
+      "Recruiting Analyst": "Applicant Tracking Systems, Executive Search, Recruiting, Technical Recruiting",
+      "Recruiting Specialist": "Executive Search, Recruiting, Technical Recruiting",
+      "Recruiting Manager": "Executive Search, Recruiting, Technical Recruiting"
+    }
+  },
+  "Religious Studies": {
+    "baseline_skills": "Biblical Studies, Church Events, Discipleship, Missions, Pastoral Care, Pastoral Counseling, Preaching, Religion, Theology, Youth Ministry",
+    "roles": {
+      "Religious Studies Coordinator": "Biblical Studies, Religion",
+      "Religious Studies Analyst": "Biblical Studies, Religion",
+      "Religious Studies Manager": "Biblical Studies, Religion",
+      "Religious Studies Specialist": "Biblical Studies"
+    }
+  },
+  "Research": {
+    "baseline_skills": "Financial Research, Focus Groups, Primary Research, Qualitative & Quantitative Research Methodologies, Qualitative Research, Quantitative Research, Research, Research Design, Research and Development (R&D), Secondary Research",
+    "roles": {
+      "Research Analyst": "Financial Research, Primary Research, Qualitative & Quantitative Research Methodologies, Qualitative Research, Quantitative Research, Research, Research Design, Research and Development (R&D), Secondary Research",
+      "Research Coordinator": "Financial Research, Primary Research, Qualitative & Quantitative Research Methodologies, Qualitative Research, Quantitative Research, Research, Research Design, Research and Development (R&D), Secondary Research",
+      "Research Manager": "Financial Research, Primary Research, Qualitative & Quantitative Research Methodologies, Qualitative Research, Quantitative Research, Research, Research Design, Research and Development (R&D), Secondary Research",
+      "Research Specialist": "Financial Research, Primary Research, Qualitative & Quantitative Research Methodologies, Qualitative Research, Quantitative Research, Research, Research Design, Research and Development (R&D), Secondary Research"
+    }
+  },
+  "Retail Packaging": {
+    "baseline_skills": "Packaging Artwork, Packaging Design, Packaging Engineering, Packaging Machinery, Pharmaceutical Packaging, Retail Packaging",
+    "roles": {
+      "Retail Packaging Analyst": "Packaging Artwork, Packaging Design, Packaging Engineering, Packaging Machinery, Pharmaceutical Packaging, Retail Packaging",
+      "Retail Packaging Specialist": "Packaging Artwork, Packaging Design, Packaging Engineering, Packaging Machinery, Pharmaceutical Packaging, Retail Packaging",
+      "Retail Packaging": "Packaging Artwork, Packaging Design, Packaging Engineering, Packaging Machinery, Pharmaceutical Packaging, Retail Packaging",
+      "Retail Packaging Manager": "Packaging Artwork, Packaging Design, Packaging Engineering, Packaging Machinery, Pharmaceutical Packaging, Retail Packaging",
+      "Retail Packaging Coordinator": "Packaging Artwork, Packaging Design, Packaging Engineering, Packaging Machinery, Pharmaceutical Packaging, Retail Packaging"
+    }
+  },
+  "Retail Sales": {
+    "baseline_skills": "Fast-Moving Consumer Goods (FMCG), Loss Prevention, Merchandising, Pricing Strategy, Retail, Retail Sales, Sales Management, Store Management, Trade Shows, Visual Merchandising",
+    "roles": {
+      "Retail Sales Analyst": "Retail, Retail Sales, Sales Management",
+      "Retail Sales Manager": "Retail, Retail Sales, Sales Management, Store Management",
+      "Retail Sales Coordinator": "Retail, Retail Sales, Sales Management",
+      "Retail Sales Specialist": "Retail, Retail Sales, Sales Management"
+    }
+  },
+  "Revenue Analysis": {
+    "baseline_skills": "Revenue Analysis, Revenue Cycle, Revenue Cycle Management, Revenue Forecasting, Revenue Modeling, Revenue Share, Revenue Streams, Yield Management",
+    "roles": {
+      "Revenue Analysis Coordinator": "Revenue Analysis, Revenue Cycle, Revenue Cycle Management, Revenue Forecasting, Revenue Modeling, Revenue Share, Revenue Streams",
+      "Revenue Analysis Manager": "Revenue Analysis, Revenue Cycle, Revenue Cycle Management, Revenue Forecasting, Revenue Modeling, Revenue Share, Revenue Streams, Yield Management",
+      "Revenue Analysis Specialist": "Revenue Analysis, Revenue Cycle, Revenue Cycle Management, Revenue Forecasting, Revenue Modeling, Revenue Share, Revenue Streams",
+      "Revenue Analysis Analyst": "Revenue Analysis, Revenue Cycle, Revenue Cycle Management, Revenue Forecasting, Revenue Modeling, Revenue Share, Revenue Streams"
+    }
+  },
+  "Robotics": {
+    "baseline_skills": "Automation, Control Theory, Electrical Controls, Electro-mechanical, Machine Design, Machine Vision, Mechatronics, Motion Control, Process Automation, Robotics",
+    "roles": {
+      "Robotics Manager": "Robotics",
+      "Robotics Analyst": "Process Automation, Robotics",
+      "Robotics Specialist": "Robotics",
+      "Robotics Coordinator": "Motion Control, Robotics"
+    }
+  },
+  "Sales Leads": {
+    "baseline_skills": "Building New Business, Channel Partner Development, Client Prospecting, Demand Generation, Inbound Lead Generation, Inbound Marketing, Lead Generation, Lead Management, Sales Leads, Social Selling",
+    "roles": {
+      "Sales Leads Specialist": "Sales Leads",
+      "Sales Leads Coordinator": "Inbound Lead Generation, Lead Generation, Lead Management, Sales Leads",
+      "Sales Leads Manager": "Inbound Lead Generation, Lead Generation, Lead Management, Sales Leads, Social Selling",
+      "Sales Leads Analyst": "Lead Generation, Lead Management, Sales Leads"
+    }
+  },
+  "Sales Operations": {
+    "baseline_skills": "Business Relationship Management, Business-to-Business (B2B), Channel Partners, Customer Relationship Management (CRM), Key Account Development, Pre-sales, Sales Operations, Sales Presentations, Salesforce.com, Strategic Partnerships",
+    "roles": {
+      "Sales Operations Specialist": "Business Relationship Management, Pre-sales, Sales Operations, Sales Presentations",
+      "Sales Operations Manager": "Business Relationship Management, Customer Relationship Management (CRM), Pre-sales, Sales Operations, Sales Presentations, Salesforce.com",
+      "Sales Operations Analyst": "Business Relationship Management, Customer Relationship Management (CRM), Pre-sales, Sales Operations, Sales Presentations, Salesforce.com",
+      "Sales Operations Coordinator": "Business Relationship Management, Customer Relationship Management (CRM), Pre-sales, Sales Operations, Sales Presentations, Salesforce.com"
+    }
+  },
+  "Scientific Computing": {
+    "baseline_skills": "Bioinformatics, Finite Element Analysis, High Performance Computing (HPC), Maple, Mathematical Modeling, Matlab, SASS, Scala, Scientific Computing, Simulink",
+    "roles": {
+      "Scientific Computing Manager": "High Performance Computing (HPC), Scientific Computing",
+      "Scientific Computing Analyst": "Finite Element Analysis, High Performance Computing (HPC), Scientific Computing",
+      "Scientific Computing Coordinator": "High Performance Computing (HPC), Scientific Computing",
+      "Scientific Computing Specialist": "High Performance Computing (HPC), Scientific Computing"
+    }
+  },
+  "Sculpture": {
+    "baseline_skills": "Clay, Sculpture, Statues, Stoneware",
+    "roles": {
+      "Sculpture Specialist": "Sculpture",
+      "Sculpture Manager": "Sculpture",
+      "Sculpture Analyst": "Sculpture, Statues",
+      "Sculpture Coordinator": "Sculpture"
+    }
+  },
+  "Shipbuilding": {
+    "baseline_skills": "Boat Building, Marine Engineering, Marine Industry, Marine Systems, Maritime Safety, Naval Architecture, Shipbuilding, Shipyards, Vessels, Yachting",
+    "roles": {
+      "Shipbuilding Manager": "Boat Building, Shipbuilding",
+      "Shipbuilding Specialist": "Boat Building, Shipbuilding",
+      "Shipbuilding Coordinator": "Boat Building, Shipbuilding",
+      "Shipbuilding Analyst": "Boat Building, Shipbuilding, Shipyards",
+      "Shipbuilding": "Boat Building, Shipbuilding, Shipyards"
+    }
+  },
+  "Signal Processing": {
+    "baseline_skills": "Analog Signal Processing, Audio Processing, Digital Signal Processing, Encoding, Image Processing, Multiplexing, Signal Processing, Speech Processing, Speech Signal Processing, Video Processing",
+    "roles": {
+      "Signal Processing Analyst": "Analog Signal Processing, Audio Processing, Digital Signal Processing, Image Processing, Signal Processing, Speech Processing, Speech Signal Processing, Video Processing",
+      "Signal Processing Specialist": "Analog Signal Processing, Audio Processing, Digital Signal Processing, Image Processing, Signal Processing, Speech Processing, Speech Signal Processing, Video Processing",
+      "Signal Processing Manager": "Analog Signal Processing, Audio Processing, Digital Signal Processing, Image Processing, Signal Processing, Speech Processing, Speech Signal Processing, Video Processing",
+      "Signal Processing Coordinator": "Analog Signal Processing, Audio Processing, Digital Signal Processing, Image Processing, Signal Processing, Speech Processing, Speech Signal Processing, Video Processing"
+    }
+  },
+  "Social Media": {
+    "baseline_skills": "Blogging, Digital Media, Facebook, Instagram, Social Marketing, Social Media, Social Media Marketing, Social Media Optimization (SMO), Twitter, YouTube",
+    "roles": {
+      "Social Media Specialist": "Digital Media, Social Marketing, Social Media, Social Media Marketing, Social Media Optimization (SMO)",
+      "Social Media Analyst": "Digital Media, Social Marketing, Social Media, Social Media Marketing, Social Media Optimization (SMO)",
+      "Social Media Manager": "Digital Media, Social Marketing, Social Media, Social Media Marketing, Social Media Optimization (SMO)",
+      "Social Media Coordinator": "Digital Media, Social Marketing, Social Media, Social Media Marketing, Social Media Optimization (SMO)"
+    }
+  },
+  "Social Perceptiveness": {
+    "baseline_skills": "Cross-cultural Communication Skills, Cross-cultural Teams, Cultural Awareness, Emotional Intelligence, Intercultural Skills, Interpersonal Relationships, Self-confidence, Social Enterprise, Social Innovation, Social Justice",
+    "roles": {
+      "Social Perceptiveness Coordinator": "Social Enterprise, Social Innovation, Social Justice",
+      "Social Perceptiveness Manager": "Cultural Awareness, Social Enterprise, Social Innovation, Social Justice",
+      "Social Perceptiveness Analyst": "Cultural Awareness, Social Enterprise, Social Innovation, Social Justice",
+      "Social Perceptiveness Specialist": "Cross-cultural Communication Skills, Social Enterprise, Social Innovation, Social Justice"
+    }
+  },
+  "Social Services": {
+    "baseline_skills": "Behavioral Health, Case Management, Clinical Supervision, Crisis Intervention, Group Therapy, Mental Health, Mental Health Counseling, Motivational Interviewing, Social Services, Youth Development",
+    "roles": {
+      "Social Services Manager": "Case Management, Clinical Supervision, Motivational Interviewing, Social Services",
+      "Social Services Specialist": "Clinical Supervision, Motivational Interviewing, Social Services",
+      "Social Services Coordinator": "Clinical Supervision, Motivational Interviewing, Social Services",
+      "Social Services Analyst": "Case Management, Clinical Supervision, Motivational Interviewing, Social Services"
+    }
+  },
+  "Sociology": {
+    "baseline_skills": "Cultural Diversity, Demography, Ethnography, Institutional Change, Qualitative Data, Quantitative Data, Social Psychology, Social Research",
+    "roles": {
+      "Sociology Analyst": "Social Psychology, Social Research",
+      "Sociology Manager": "Institutional Change, Social Psychology, Social Research",
+      "Sociology Specialist": "Social Psychology",
+      "Sociology Coordinator": "Social Psychology"
+    }
+  },
+  "Software Development Life Cycle": {
+    "baseline_skills": "Agile, Agile Methodologies, C#, CI/CD, Docker, Git, Integration, Java, JavaScript, Kubernetes, Node.js, Python, REST APIs, React, Requirements Analysis, Requirements Gathering, Scrum, Software Design, Software Development Life Cycle (SDLC), Solution Architecture, Systems Engineering, Unified Modeling Language (UML), Unit Testing",
+    "roles": {
+      "Software Development Life Cycle Manager": "Agile, C#, CI/CD, Docker, Git, Java, JavaScript, Kubernetes, Node.js, Python, REST APIs, React, Scrum, Software Design, Software Development Life Cycle (SDLC), Unit Testing",
+      "Software Development Life Cycle Coordinator": "Agile, C#, CI/CD, Docker, Git, Java, JavaScript, Kubernetes, Node.js, Python, REST APIs, React, Scrum, Software Design, Software Development Life Cycle (SDLC), Unit Testing",
+      "Software Development Life Cycle Specialist": "Agile, C#, CI/CD, Docker, Git, Java, JavaScript, Kubernetes, Node.js, Python, REST APIs, React, Scrum, Software Design, Software Development Life Cycle (SDLC), Unit Testing",
+      "Software Development Life Cycle": "Agile, C#, CI/CD, Docker, Git, Java, JavaScript, Kubernetes, Node.js, Python, REST APIs, React, Scrum, Software Design, Software Development Life Cycle (SDLC), Unit Testing",
+      "Software Development Life Cycle Analyst": "Agile, C#, CI/CD, Docker, Git, Java, JavaScript, Kubernetes, Node.js, Python, REST APIs, React, Requirements Analysis, Scrum, Software Design, Software Development Life Cycle (SDLC), Unit Testing"
+    }
+  },
+  "Software Testing": {
+    "baseline_skills": "Debugging, HP Quality Center, Manual Testing, Regression Testing, Software Quality Assurance, System Testing, Test Automation, Test Cases, Test Planning, User Acceptance Testing",
+    "roles": {
+      "Software Testing Analyst": "Manual Testing, Regression Testing, Software Quality Assurance, System Testing, Test Cases, User Acceptance Testing",
+      "Software Testing Manager": "Manual Testing, Regression Testing, Software Quality Assurance, System Testing, Test Automation, Test Cases, User Acceptance Testing",
+      "Software Testing Specialist": "Manual Testing, Regression Testing, Software Quality Assurance, System Testing, Test Cases, User Acceptance Testing",
+      "Software Testing Coordinator": "Manual Testing, Regression Testing, Software Quality Assurance, System Testing, Test Automation, User Acceptance Testing"
+    }
+  },
+  "Sports Coaching": {
+    "baseline_skills": "Coaching Baseball, College Football, Endurance, Fitness Instruction, Golf Instruction, Performance Enhancement, Sports Coaching, Sports Development, Sports Nutrition, Strength Training",
+    "roles": {
+      "Sports Coaching Analyst": "Coaching Baseball, Sports Coaching, Sports Development, Sports Nutrition",
+      "Sports Coaching Coordinator": "Coaching Baseball, Sports Coaching, Sports Development, Sports Nutrition",
+      "Sports Coaching Specialist": "Coaching Baseball, Sports Coaching, Sports Development, Sports Nutrition",
+      "Sports Coaching Manager": "Coaching Baseball, Sports Coaching, Sports Development, Sports Nutrition"
+    }
+  },
+  "Structural Analysis": {
+    "baseline_skills": "Bridge, Calculations, Engineering Design, FEM analysis, Slabs, Specifications, Stress Analysis, Structural Analysis, Structural Integrity, Structural Modeling",
+    "roles": {
+      "Structural Analysis Specialist": "FEM analysis, Stress Analysis, Structural Analysis, Structural Integrity, Structural Modeling",
+      "Structural Analysis Manager": "FEM analysis, Stress Analysis, Structural Analysis, Structural Integrity, Structural Modeling",
+      "Structural Analysis Coordinator": "FEM analysis, Stress Analysis, Structural Analysis, Structural Integrity, Structural Modeling",
+      "Structural Analysis Analyst": "FEM analysis, Stress Analysis, Structural Analysis, Structural Integrity, Structural Modeling",
+      "Structural Analysis": "FEM analysis, Stress Analysis, Structural Analysis, Structural Integrity, Structural Modeling"
+    }
+  },
+  "Structural Engineering": {
+    "baseline_skills": "Aluminum Alloys, Autodesk Robot Structural Analysis, Concrete Materials, Earthquake Engineering, Marinas, MathCAD, Pile Foundations, Reinforced Concrete, Retaining Walls, Structural Engineering",
+    "roles": {
+      "Structural Engineering Specialist": "Autodesk Robot Structural Analysis, Earthquake Engineering, Retaining Walls, Structural Engineering",
+      "Structural Engineering Analyst": "Autodesk Robot Structural Analysis, Earthquake Engineering, Retaining Walls, Structural Engineering",
+      "Structural Engineering Coordinator": "Autodesk Robot Structural Analysis, Earthquake Engineering, Structural Engineering",
+      "Structural Engineering Manager": "Autodesk Robot Structural Analysis, Earthquake Engineering, Structural Engineering",
+      "Structural Engineer": "Autodesk Robot Structural Analysis, Earthquake Engineering, Structural Engineering"
+    }
+  },
+  "Tax Accounting": {
+    "baseline_skills": "Corporate Tax, Income Tax, International Tax, Sales Tax, Tax, Tax Accounting, Tax Advisory, Tax Preparation, Tax Research, Value-Added Tax (VAT)",
+    "roles": {
+      "Tax Accounting Manager": "Corporate Tax, Income Tax, International Tax, Sales Tax, Tax, Tax Accounting, Tax Advisory, Tax Preparation, Tax Research, Value-Added Tax (VAT)",
+      "Tax Accounting Analyst": "Corporate Tax, Income Tax, International Tax, Sales Tax, Tax, Tax Accounting, Tax Advisory, Tax Preparation, Tax Research, Value-Added Tax (VAT)",
+      "Tax Accounting Specialist": "Corporate Tax, Income Tax, International Tax, Sales Tax, Tax, Tax Accounting, Tax Advisory, Tax Preparation, Tax Research, Value-Added Tax (VAT)",
+      "Tax Accounting Coordinator": "Corporate Tax, Income Tax, International Tax, Sales Tax, Tax, Tax Accounting, Tax Advisory, Tax Preparation, Tax Research, Value-Added Tax (VAT)",
+      "Tax Accountant": "Corporate Tax, Income Tax, International Tax, Sales Tax, Tax, Tax Accounting, Tax Advisory, Tax Preparation, Tax Research, Value-Added Tax (VAT)"
+    }
+  },
+  "Tax Law": {
+    "baseline_skills": "Asset-Backed Security (ABS), Commercial Mortgage-Backed Security (CMBS), Distressed Debt, FIN 48, Mortgage-Backed Security (MBS), Revenue Recognition, Securities Lending, Tax Law, Unsecured Loans, Use Tax",
+    "roles": {
+      "Tax Law Specialist": "Tax Law, Use Tax",
+      "Tax Law Manager": "Tax Law, Use Tax",
+      "Tax Law Analyst": "Tax Law, Use Tax",
+      "Tax Law Coordinator": "Tax Law, Use Tax",
+      "Tax Lawyer": "Tax Law, Use Tax"
+    }
+  },
+  "Teaching": {
+    "baseline_skills": "Assistant Teaching, English Teaching, Instructors, Language Teaching, Sales Trainings, Teaching, Teaching English as a Foreign Language, Teaching English as a Second Language, Teaching Writing, University Teaching",
+    "roles": {
+      "Teaching Analyst": "Assistant Teaching, English Teaching, Language Teaching, Teaching, Teaching English as a Foreign Language, Teaching English as a Second Language, Teaching Writing, University Teaching",
+      "Teaching Specialist": "Assistant Teaching, English Teaching, Language Teaching, Teaching, Teaching English as a Foreign Language, Teaching English as a Second Language, Teaching Writing, University Teaching",
+      "Teaching Coordinator": "Assistant Teaching, English Teaching, Language Teaching, Teaching, Teaching English as a Foreign Language, Teaching English as a Second Language, Teaching Writing, University Teaching",
+      "Teaching Manager": "Assistant Teaching, English Teaching, Language Teaching, Teaching, Teaching English as a Foreign Language, Teaching English as a Second Language, Teaching Writing, University Teaching"
+    }
+  },
+  "Technical Support": {
+    "baseline_skills": "Disaster Recovery, IT Management, IT Service Management, IT Strategy, ITIL, Operating Systems, System Administration, Technical Support, Troubleshooting, Windows",
+    "roles": {
+      "Technical Support Coordinator": "Technical Support",
+      "Technical Support Manager": "IT Management, IT Service Management, Technical Support",
+      "Technical Support Specialist": "Technical Support",
+      "Technical Support Analyst": "Technical Support"
+    }
+  },
+  "Telecommunications": {
+    "baseline_skills": "3G, GSM, Internet Protocol (IP), LTE, Mobile Communications, Mobile Devices, Radio Frequency (RF), Telecommunications, Unified Communications, Wireless Technologies",
+    "roles": {
+      "Telecommunications Coordinator": "Mobile Communications, Telecommunications, Unified Communications",
+      "Telecommunications Analyst": "Mobile Communications, Telecommunications, Unified Communications",
+      "Telecommunications Specialist": "Mobile Communications, Telecommunications, Unified Communications",
+      "Telecommunications Manager": "Mobile Communications, Telecommunications, Unified Communications"
+    }
+  },
+  "Television": {
+    "baseline_skills": "Avid Media Composer, Broadcast Television, Broadcasting, Camera, Commercials, Reality Television, Sony Vegas, Streaming Media, TV Production, Television",
+    "roles": {
+      "Television Specialist": "Broadcast Television, Reality Television, Television",
+      "Television Coordinator": "Broadcast Television, Reality Television, Television",
+      "Television Analyst": "Broadcast Television, Reality Television, Sony Vegas, Television",
+      "Television Manager": "Broadcast Television, Reality Television, Streaming Media, Television"
+    }
+  },
+  "Theatre": {
+    "baseline_skills": "Acting, Comedy, Drama, Improvisation, Set Design, Shakespeare, Stage Lighting, Stage Management, Theatre, Theatrical Production",
+    "roles": {
+      "Theatre Coordinator": "Theatre, Theatrical Production",
+      "Theatre Specialist": "Shakespeare, Stage Lighting, Theatre, Theatrical Production",
+      "Theatre Manager": "Stage Management, Theatre, Theatrical Production",
+      "Theatre Analyst": "Stage Management, Theatre, Theatrical Production"
+    }
+  },
+  "Time Management": {
+    "baseline_skills": "Deadline Oriented, High degree of initiative, Multitasking, Organization Skills, Prioritize Workload, Self-management, Skilled Multi-tasker, Tenacious Work Ethic, Time Management, Time-efficient",
+    "roles": {
+      "Time Management Specialist": "Self-management, Time Management, Time-efficient",
+      "Time Management Manager": "Self-management, Time Management, Time-efficient",
+      "Time Management Analyst": "Self-management, Time Management, Time-efficient",
+      "Time Management Coordinator": "Self-management, Time Management, Time-efficient"
+    }
+  },
+  "Translation": {
+    "baseline_skills": "Bilingual Communications, Internationalization, Language Services, Legal Translation, Localization, Spanish Translation, Technical Translation, Trados, Translation, Website Localization",
+    "roles": {
+      "Translation Manager": "Internationalization, Legal Translation, Localization, Spanish Translation, Technical Translation, Translation, Website Localization",
+      "Translation Specialist": "Internationalization, Language Services, Legal Translation, Localization, Spanish Translation, Technical Translation, Translation",
+      "Translation Analyst": "Internationalization, Legal Translation, Localization, Spanish Translation, Technical Translation, Translation, Website Localization",
+      "Translation Coordinator": "Internationalization, Legal Translation, Spanish Translation, Technical Translation, Translation"
+    }
+  },
+  "Travel Management": {
+    "baseline_skills": "Business Travel, Leisure Industry, Leisure Travel, Online Travel, Sabre, Tour Operators, Tourism, Travel, Travel Management, Travel Planning",
+    "roles": {
+      "Travel Management Specialist": "Business Travel, Leisure Travel, Online Travel, Travel, Travel Management, Travel Planning",
+      "Travel Management Coordinator": "Business Travel, Leisure Travel, Online Travel, Travel, Travel Management, Travel Planning",
+      "Travel Management Manager": "Business Travel, Leisure Travel, Online Travel, Travel, Travel Management, Travel Planning",
+      "Travel Management Analyst": "Business Travel, Leisure Travel, Online Travel, Travel, Travel Management, Travel Planning"
+    }
+  },
+  "Urban Planning": {
+    "baseline_skills": "Comprehensive Planning, Historic Preservation, Land Development, Land Use Planning, Transportation Planning, Urban, Urban Design, Urban Planning, Urbanism, Zoning",
+    "roles": {
+      "Urban Planning Analyst": "Comprehensive Planning, Land Use Planning, Transportation Planning, Urban, Urban Design, Urban Planning, Urbanism",
+      "Urban Planning Specialist": "Comprehensive Planning, Land Use Planning, Transportation Planning, Urban, Urban Design, Urban Planning, Urbanism",
+      "Urban Planning Coordinator": "Comprehensive Planning, Land Use Planning, Transportation Planning, Urban, Urban Design, Urban Planning",
+      "Urban Planning Manager": "Comprehensive Planning, Land Use Planning, Transportation Planning, Urban, Urban Design, Urban Planning, Urbanism"
+    }
+  },
+  "Urology": {
+    "baseline_skills": "Dialysis, Kidney Transplant, Pediatric Urology, Urology",
+    "roles": {
+      "Urology Manager": "Pediatric Urology, Urology",
+      "Urology Specialist": "Pediatric Urology, Urology",
+      "Urology Analyst": "Pediatric Urology, Urology",
+      "Urology Coordinator": "Pediatric Urology, Urology"
+    }
+  },
+  "Utilities": {
+    "baseline_skills": "Boilers, Building Services, Electricity, Energy, Energy Industry, Energy Management, Gas Turbines, Pneumatics, Pumps, SCADA",
+    "roles": {
+      "Utilities Specialist": "",
+      "Utilities Coordinator": "",
+      "Utilities Analyst": "Building Services",
+      "Utilities Manager": "Building Services, Energy Management"
+    }
+  },
+  "Veterinary Medicine": {
+    "baseline_skills": "Animal Behavior, Animal Welfare, Dogs, IACUC, Microbiology, Pet Care, Veterinary Medicine, Veterinary Nursing, Veterinary Surgery, Veterinary Technology",
+    "roles": {
+      "Veterinary Medicine Specialist": "Veterinary Medicine, Veterinary Nursing, Veterinary Surgery, Veterinary Technology",
+      "Veterinary Medicine Manager": "Veterinary Medicine, Veterinary Nursing, Veterinary Surgery, Veterinary Technology",
+      "Veterinary Medicine Analyst": "Veterinary Medicine, Veterinary Nursing, Veterinary Surgery, Veterinary Technology",
+      "Veterinary Medicine Coordinator": "Veterinary Medicine, Veterinary Nursing, Veterinary Surgery, Veterinary Technology"
+    }
+  },
+  "Video": {
+    "baseline_skills": "Adobe Premiere Pro, Documentaries, Film, Film Production, Final Cut Pro, Short Films, Video, Video Editing, Video Post-Production, Video Production",
+    "roles": {
+      "Video Coordinator": "Video, Video Editing, Video Post-Production, Video Production",
+      "Video Specialist": "Video, Video Editing, Video Post-Production, Video Production",
+      "Video Analyst": "Video, Video Editing, Video Post-Production, Video Production",
+      "Video Manager": "Video, Video Editing, Video Post-Production, Video Production"
+    }
+  },
+  "Volunteer Management": {
+    "baseline_skills": "Community Service, Volunteer Management, Volunteer Recruiting, Volunteer Training, Volunteering, Youth Mentoring",
+    "roles": {
+      "Volunteer Management Coordinator": "Volunteer Management, Volunteer Recruiting, Volunteer Training, Volunteering, Youth Mentoring",
+      "Volunteer Management Manager": "Volunteer Management, Volunteer Recruiting, Volunteer Training, Volunteering, Youth Mentoring",
+      "Volunteer Management Specialist": "Volunteer Management, Volunteer Recruiting, Volunteer Training, Volunteering",
+      "Volunteer Management Analyst": "Volunteer Management, Volunteer Recruiting, Volunteer Training, Volunteering, Youth Mentoring"
+    }
+  },
+  "Water Engineering": {
+    "baseline_skills": "Activated Sludge, Drainage Systems, Industrial Water Treatment, Pump Stations, Water Engineering, Water Resource Management, Water Supply, Water Treatment",
+    "roles": {
+      "Water Engineering Analyst": "Industrial Water Treatment, Water Engineering, Water Resource Management, Water Supply, Water Treatment",
+      "Water Engineering Specialist": "Industrial Water Treatment, Water Engineering, Water Resource Management, Water Supply, Water Treatment",
+      "Water Engineering Coordinator": "Industrial Water Treatment, Water Engineering, Water Resource Management, Water Supply, Water Treatment",
+      "Water Engineer": "Industrial Water Treatment, Water Engineering, Water Resource Management, Water Supply, Water Treatment",
+      "Water Engineering Manager": "Industrial Water Treatment, Water Engineering, Water Resource Management, Water Supply, Water Treatment"
+    }
+  },
+  "Web Development": {
+    "baseline_skills": "HTML, CSS, JavaScript, React, Node.js, Vue.js, Angular, Web APIs, Responsive Design, Cross-Browser Compatibility, Git, Webpack, Bootstrap",
+    "roles": {
+      "Frontend Developer": "HTML, CSS, JavaScript, React, Vue.js, Responsive Design",
+      "Backend Developer": "Node.js, Express.js, APIs, Databases, Authentication",
+      "Full Stack Developer": "React, Node.js, HTML, CSS, Web APIs, Git",
+      "Web Developer": "HTML, CSS, JavaScript, Bootstrap, Responsive Design"
+    }
+  },
+  "Wellness": {
+    "baseline_skills": "Fitness, Healing, Holistic Health, Meditation, Nutrition Education, Nutritional Counseling, Therapeutic Massage, Wellness, Wellness Coaching, Yoga",
+    "roles": {
+      "Wellness Coordinator": "Wellness, Wellness Coaching",
+      "Wellness Specialist": "Wellness, Wellness Coaching",
+      "Wellness Analyst": "Wellness, Wellness Coaching",
+      "Wellness Manager": "Therapeutic Massage, Wellness, Wellness Coaching"
+    }
+  },
+  "Wholesale": {
+    "baseline_skills": "Cross Merchandising, Discount, Gross Margin, Invoice Discounting, Order Picking, Pick & Pack, Rebates, Wal-Mart, Wholesale, Wholesale Operations",
+    "roles": {
+      "Wholesale Analyst": "Wholesale, Wholesale Operations",
+      "Wholesale Specialist": "Wholesale, Wholesale Operations",
+      "Wholesale Coordinator": "Wholesale, Wholesale Operations",
+      "Wholesale Manager": "Gross Margin, Wal-Mart, Wholesale, Wholesale Operations"
+    }
+  },
+  "Writing": {
+    "baseline_skills": "Creative Writing, News Writing, Proposal Writing, Publications, Publishing, Report Writing, Resume Writing, Storytelling, Web Content Writing, Writing",
+    "roles": {
+      "Writing Manager": "Creative Writing, News Writing, Proposal Writing, Report Writing, Resume Writing, Web Content Writing, Writing",
+      "Writing Coordinator": "Creative Writing, News Writing, Proposal Writing, Report Writing, Resume Writing, Web Content Writing, Writing",
+      "Writing Specialist": "Creative Writing, News Writing, Proposal Writing, Report Writing, Resume Writing, Web Content Writing, Writing",
+      "Writing Analyst": "Creative Writing, News Writing, Proposal Writing, Report Writing, Resume Writing, Web Content Writing, Writing"
+    }
+  },
+  "Zoology": {
+    "baseline_skills": "Animal Work, Aquariums, Birds, Entomology, Exotic Animals, Laboratory Animal Medicine, Ornithology, Parasitology, Reptiles, Zoology",
+    "roles": {
+      "Zoology Specialist": "Entomology, Ornithology, Zoology",
+      "Zoology Analyst": "Entomology, Exotic Animals, Ornithology, Zoology",
+      "Zoology Coordinator": "Entomology, Zoology",
+      "Zoology Manager": "Entomology, Ornithology, Zoology"
+    }
+  },
+  "Building Maintenance": {
+    "baseline_skills": "Plumbing, Electrical Systems, HVAC, Preventive Maintenance, Carpentry, Building Codes, General Repairs, Safety Procedures, Work Order Management",
+    "roles": {
+      "Maintenance Technician": "General Repairs, HVAC, Plumbing, Electrical Systems",
+      "Facilities Maintenance Supervisor": "Preventive Maintenance, Building Codes, Work Order Management"
+    }
+  },
+  "Customer Service": {
+    "baseline_skills": "Communication Skills, Problem Solving, CRM Software, Empathy, Conflict Resolution, Phone Etiquette, Multitasking, Product Knowledge, Ticketing Systems",
+    "roles": {
+      "Customer Service Representative": "Communication Skills, CRM Software, Phone Etiquette, Empathy",
+      "Customer Support Specialist": "Problem Solving, Ticketing Systems, Product Knowledge, Multitasking"
+    }
+  },
+  "Behavioral Therapy": {
+    "baseline_skills": "Behavioral Assessment, Applied Behavior Analysis (ABA), Cognitive Behavioral Therapy (CBT), Behavior Intervention Plans, Data Collection, Patient Counseling, Mental Health Treatment",
+    "roles": {
+      "Behavioral Therapist": "Behavioral Assessment, CBT, Behavior Intervention Plans, Patient Counseling",
+      "ABA Therapist": "Applied Behavior Analysis (ABA), Data Collection, Behavior Tracking"
+    }
+  },
+  "Data Analysis": {
+    "baseline_skills": "Data Cleaning, Statistical Analysis, Data Visualization, SQL, Python, Excel, Tableau, Power BI, Hypothesis Testing, Trend Analysis",
+    "roles": {
+      "Data Analyst": "SQL, Excel, Tableau, Data Cleaning",
+      "Business Analyst": "Power BI, Trend Analysis, Statistical Analysis, Hypothesis Testing"
+    }
+  },
+  "Electrical Engineering": {
+    "baseline_skills": "Circuit Design, Power Systems, Embedded Systems, PCB Design, Control Systems, Electrical Testing, MATLAB, Simulink, AutoCAD Electrical, SCADA, Relay Coordination",
+    "roles": {
+      "Electrical Engineer": "Circuit Design, Power Systems, MATLAB, SCADA, Electrical Testing",
+      "Control Systems Engineer": "Control Systems, Simulink, AutoCAD Electrical, PLC Programming",
+      "Electrical Design Engineer": "PCB Design, AutoCAD Electrical, Relay Coordination, Power Distribution",
+      "Field Electrical Engineer": "Power Systems, Site Inspection, Electrical Testing, Equipment Maintenance"
+    }
+  },
+  "Security Systems": {
+    "baseline_skills": "Access Control, Surveillance Systems, Video Management Systems",
+    "roles": {
+      "Security Systems Specialist": "Surveillance Systems, Video Management Systems",
+      "Security Systems Manager": "Surveillance Systems, Video Management Systems",
+      "Security Systems Coordinator": "Surveillance Systems, Video Management Systems",
+      "Security Systems Analyst": "Surveillance Systems, Video Management Systems"
+    }
+  },
+  "Veterinary Services": {
+    "baseline_skills": "AAHA Accredited, Client Communication, Pet Care, Veterinary Receptionist",
+    "roles": {
+      "Veterinary Services Specialist": "Veterinary Receptionist",
+      "Veterinary Services Manager": "Veterinary Receptionist",
+      "Veterinary Services Coordinator": "Veterinary Receptionist",
+      "Veterinary Services Analyst": "Veterinary Receptionist"
+    }
+  },
+  "Optical Engineering": {
+    "baseline_skills": "Machine Vision, Optical Inspection Equipment Programming, Optomechanics",
+    "roles": {
+      "Optical Engineering Specialist": "Optical Inspection Equipment Programming",
+      "Optical Engineering Manager": "Optical Inspection Equipment Programming",
+      "Optical Engineer": "Optical Inspection Equipment Programming",
+      "Optical Engineering Analyst": "Optical Inspection Equipment Programming",
+      "Optical Engineering Coordinator": "Optical Inspection Equipment Programming"
+    }
+  },
+  "HVAC Technician": {
+    "baseline_skills": "Heating Systems, Air Conditioning Systems, Refrigeration, Ventilation, Thermostats, Ductwork, HVAC Troubleshooting, System Maintenance, EPA Certification",
+    "roles": {
+      "HVAC Technician": "Heating Systems, Air Conditioning Systems, Ventilation, System Maintenance",
+      "HVAC Installer": "Ductwork, Thermostats, Refrigeration, HVAC Troubleshooting"
+    }
+  },
+  "Facilities Maintenance": {
+    "baseline_skills": "Preventive Maintenance, HVAC Systems, Electrical Systems, Plumbing, Building Safety, Maintenance Scheduling, Work Order Management, Equipment Repair",
+    "roles": {
+      "Maintenance Technician": "Preventive Maintenance, Equipment Repair, Electrical Systems, Plumbing",
+      "Facilities Supervisor": "Maintenance Scheduling, Building Safety, Work Order Management, HVAC Systems"
+    }
+  },
+  "Data Scientist/Machine Learning Engineer": {
+    "baseline_skills": "statistical modeling techniques, time series analysis, linear regression, Python, R, matplotlib, seaborn, plotly, decision trees, random forests, gradient boosting, data cleaning, data mining, data warehousing",
+    "roles": {
+      "Sales Forecasting Analyst": "forecasting software such as Prophet, ARIMA, Exponential smoothing",
+      "Inventory Optimization Analyst": "inventory management concepts such as EOQ, ABC analysis, and safety stock levels, Gurobi, CPLEX, Pyomo, Monte Carlo, Linear Programming, Heuristics",
+      "Pricing Optimization Analyst": "Bayesian statistics, price skimming, penetration pricing, dynamic pricing, A/B testing, experimentation design, Tableau, Power BI",
+      "Customer Segmentation Analyst": "clustering, dimensionality reduction, NLP, K-means, hierarchical clustering, density-based clustering, Random Forest, SVM, Neural Networks",
+      "Market Research Analyst": "market basket analysis, Apriori, FP-Growth, NLP, association rule mining, frequent itemset mining, K-means, Random Forest, Neural Networks, lift, confidence, support"
+    }
+  },
+  "Artificial Intelligence": {
+    "baseline_skills": "Artificial Intelligence, Computer Vision, Data Preprocessing, Data Visualization, Deep Learning, Docker, Feature Engineering, Hugging Face Transformers, Keras, LIME, Linear Algebra, Machine Learning, Model Deployment, Model Evaluation, NLP, Natural Language Processing (NLP), Neural Networks, OpenCV, PyTorch, Python, REST APIs, Reinforcement Learning, SHAP, SQL, Scikit-learn, Statistics, TensorFlow",
+    "roles": {
+      "AI Engineer": "Computer Vision, Deep Learning, Docker, Keras, Machine Learning, Model Deployment, Model Evaluation, NLP, Neural Networks, OpenCV, PyTorch, Python, REST APIs, Reinforcement Learning, Scikit-learn, TensorFlow",
+      "ML Engineer": "Computer Vision, Deep Learning, Feature Engineering, Keras, Machine Learning, Model Deployment, Model Optimization, NLP, Neural Networks, OpenCV, PyTorch, Python, Reinforcement Learning, Scikit-learn, TensorFlow",
+      "NLP Engineer": "BERT, Computer Vision, Deep Learning, GPT, Hugging Face Transformers, Keras, Machine Learning, NLP, Named Entity Recognition (NER), Natural Language Processing, Neural Networks, OpenCV, PyTorch, Python, Reinforcement Learning, Scikit-learn, TensorFlow, Text Classification, Tokenization",
+      "Computer Vision Engineer": "CNNs, Computer Vision, Deep Learning, Image Classification, Keras, Machine Learning, NLP, Neural Networks, Object Detection, OpenCV, PyTorch, Python, Reinforcement Learning, Scikit-learn, TensorFlow, Transfer Learning",
+      "AI Research Scientist": "Artificial Intelligence, Computer Vision, Deep Learning, GANs, Keras, Machine Learning, Mathematical Modeling, NLP, Neural Networks, OpenCV, PyTorch, Python, Reinforcement Learning, Research Paper Writing, Scikit-learn, Self-Supervised Learning, TensorFlow",
+      "AI Product Manager": "AI Strategy, Agile Methodology, Computer Vision, Deep Learning, Keras, Machine Learning, Model Interpretability, NLP, Neural Networks, OpenCV, Product Lifecycle, PyTorch, Python, Reinforcement Learning, Scikit-learn, Stakeholder Management, TensorFlow, User-Centered Design"
+    }
+  },
+  "Data Science": {
+    "baseline_skills": "A/B Testing, Analytics, Big Data, Data Analysis, Data Cleaning, Data Science, Data Visualization, Data Wrangling, EDA, Excel, Exploratory Data Analysis, Forecasting, Jupyter Notebooks, Machine Learning, NumPy, Pandas, Power BI, Python, R, SAS, SPSS, SQL, Statistics, Tableau, Time Series Analysis",
+    "roles": {
+      "Data Scientist": "Data Cleaning, Data Science, Data Visualization, EDA, Exploratory Data Analysis, Forecasting, Machine Learning, NumPy, Pandas, Power BI, Python, R, SQL, Statistics, Tableau",
+      "Data Analyst": "Data Analysis, Data Cleaning, Data Visualization, EDA, Excel, Forecasting, Machine Learning, NumPy, Pandas, Power BI, Python, R, SQL, Statistics, Tableau",
+      "Business Intelligence Analyst": "BI Tools, Dashboards, Data Cleaning, Data Visualization, EDA, Forecasting, Machine Learning, NumPy, Pandas, Power BI, Python, R, SQL, Statistics, Tableau",
+      "Data Engineer": "Big Data, Data Cleaning, Data Pipelines, Data Visualization, Data Warehousing, EDA, ETL, Forecasting, Hadoop, Machine Learning, NumPy, Pandas, Power BI, Python, R, SQL, Spark, Statistics, Tableau",
+      "Quantitative Analyst": "Data Cleaning, Data Visualization, EDA, Forecasting, Machine Learning, NumPy, Pandas, Power BI, Python, Quantitative Modeling, R, SQL, Statistics, Tableau, Time Series"
+    }
+  },
+  "Software Development / Programming Roles": {
+    "baseline_skills": [
+      "Object-Oriented Programming",
+      "Version Control (Git)",
+      "Agile Development",
+      "REST APIs",
+      "CI/CD",
+      "Code Debugging",
+      "Software Architecture",
+      "Database Integration",
+      "Unit Testing",
+      "Frontend and Backend Development",
+      "Cloud Platforms",
+      "Security Best Practices"
+    ],
+    "roles": {
+      "Java Developer": [
+        "Java",
+        "Spring Boot",
+        "Object-Oriented Programming",
+        "REST APIs",
+        "Unit Testing"
+      ],
+      "Python Developer": [
+        "Python",
+        "Flask",
+        "Django",
+        "Data Structures",
+        "API Development"
+      ],
+      "Full Stack Developer": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Database Integration",
+        "Frontend and Backend Development"
+      ],
+      "Backend Developer": [
+        "Node.js",
+        "Express",
+        "API Design",
+        "SQL/NoSQL",
+        "Microservices"
+      ],
+      "Frontend Developer": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "UI/UX"
+      ],
+      "DevOps Engineer": [
+        "CI/CD",
+        "Docker",
+        "Kubernetes",
+        "Cloud Platforms",
+        "Monitoring Tools"
+      ],
+      "Software Engineer": [
+        "Software Architecture",
+        "Version Control (Git)",
+        "Debugging",
+        "Design Patterns"
+      ],
+      "Mobile App Developer": [
+        "Android",
+        "iOS",
+        "Flutter",
+        "React Native",
+        "Mobile UI Design"
+      ]
+    }
+  }
+}
